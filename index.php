@@ -26,7 +26,7 @@ function byId(id) {
 		} 
 		</script>
 		<title>
-			Hacker News
+			Facker News
 		</title>
 	</head>
 	<body>
@@ -42,7 +42,7 @@ function byId(id) {
 											<a href="http://ycombinator.com/"><img src="./files/y18.gif" width="18" height="18" style="border:1px #ffffff solid;"></a>
 										</td>
 										<td style="line-height:12pt; height:10px;">
-											<span class="pagetop"><b><a href="http://news.ycombinator.com/news">Hacker News</a></b><img src="./files/s.gif" height="1" width="10"><a href="http://news.ycombinator.com/newest">new</a> | <a href="http://news.ycombinator.com/newcomments">comments</a> | <a href="http://news.ycombinator.com/ask">ask</a> | <a href="http://news.ycombinator.com/jobs">jobs</a> | <a href="http://news.ycombinator.com/submit">submit</a></span>
+											<span class="pagetop"><b><a href="http://news.ycombinator.com/news">Facker News</a></b><img src="./files/s.gif" height="1" width="10"><a href="http://news.ycombinator.com/newest">new</a> | <a href="http://news.ycombinator.com/newcomments">comments</a> | <a href="http://news.ycombinator.com/ask">ask</a> | <a href="http://news.ycombinator.com/jobs">jobs</a> | <a href="http://news.ycombinator.com/submit">submit</a></span>
 										</td>
 										<td style="text-align:right;padding-right:4px;">
 											<span class="pagetop"><a href="http://news.ycombinator.com/newslogin?whence=%6e%65%77%73">login</a></span>
@@ -90,7 +90,7 @@ function byId(id) {
 								</tbody>
 							</table><br>
 							<center>
-								<span class="yclinks"><a href="http://news.ycombinator.com/lists">Lists</a> | <a href="http://news.ycombinator.com/rss">RSS</a> | <a href="http://ycombinator.com/bookmarklet.html">Bookmarklet</a> | <a href="http://ycombinator.com/newsguidelines.html">Guidelines</a> | <a href="http://ycombinator.com/newsfaq.html">FAQ</a> | <a href="http://ycombinator.com/newsnews.html">News News</a> | <a href="http://news.ycombinator.com/item?id=363">Feature Requests</a> | <a href="http://ycombinator.com/">Y Combinator</a> | <a href="http://ycombinator.com/apply.html">Apply</a> | <a href="http://ycombinator.com/lib.html">Library</a></span><br>
+								<span class="yclinks"><a href="https://github.com/3oheme/fackernews">Fork me at Github</a> | <a href="http://news.ycombinator.com/rss">RSS</a> | <a href="http://ycombinator.com/bookmarklet.html">Bookmarklet</a> | <a href="http://ycombinator.com/newsguidelines.html">Guidelines</a> | <a href="http://ycombinator.com/newsfaq.html">FAQ</a> | <a href="http://ycombinator.com/newsnews.html">News News</a> | <a href="http://news.ycombinator.com/item?id=363">Feature Requests</a> | <a href="http://ycombinator.com/">Y Combinator</a> | <a href="http://ycombinator.com/apply.html">Apply</a> | <a href="http://ycombinator.com/lib.html">Library</a></span><br>
 								<br>
 								<form method="get" action="http://www.hnsearch.com/search#request/all">
 									Search: <input type="text" name="q" value="" size="17">

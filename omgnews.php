@@ -1,72 +1,46 @@
 <?php
 
 function fakenew_company_buys_company() {
-  $company1 = _company();
-  $company2 = _company();
-  $price = rand(1,20);
-  $title ='Breaking news: '. $company1 .' buys '. $company2 .' for $'. $price .'K';
-  $url = _url();
-  return array('title' => $title, 'url' => $url);
+  return 'Breaking news: '. _company() .' buys '. _company() .' for $'. rand(1,9) .'00 K';
 }
 
 function fakenew_improve_your_website() {
-  $title = 'Improve your website just adding '. _verb() .'.js';
-  $url = _url();
-  return array('title' => $title, 'url' => $url);
+  return 'Improve your website just adding '. _verb() .'.js';
 }
 
 function fakenew_x_things_u_didnt_know() {
-  $things = rand(5,10);
-  $title = $things ." things you didn't know about ". _technique();
-  $url = _url();
-  return array('title' => $title, 'url' => $url);
+  return rand(5,10) ." things you didn't know about ". _technique();
 }
 
 function fakenew_using_x_to_build_y() {
-  $title = 'Using '. _technique() .' to build the new '. _platform();
-  $url = _url();
-  return array('title' => $title, 'url' => $url);
+  return 'Using '. _technique() .' to build the new '. _platform();
 }
 
 function fakenew_x_sucks() {
-  $title = _technique() .' sucks for creative work. Heres an alternative system.';
-  $url = _url();
-  return array('title' => $title, 'url' => $url);
+  return _technique() .' sucks for creative work. Heres an alternative system.';
 }
 
 function fakenew_open_source_library() {
-  $title = _verb() .' - The '. _company() .' open source library';
-  $url = _url();
-  return array('title' => $title, 'url' => $url);
+  return _verb() .' - The '. _company() .' open source library';
 }
 
 function fakenew_good_startup() {
-  $title = _ceo() .' '. rand(5,10) .' Notes for a good startup';
-  $url = _url();
-  return array('title' => $title, 'url' => $url);
+  return _ceo() .' '. rand(5,10) .' Notes for a good startup';
 }
 
 function fakenew_startup_creating_social_network() {
-  $title = 'A '. _company() .' startup called '. _user_name() .' is trying to create the new social network';
-  $url = _url();
-  return array('title' => $title, 'url' => $url);
+  return 'A '. _company() .' startup called '. _user_name() .' is trying to create the new social network';
 }
 
 function fakenew_show_hn_design() {
-  $title = 'Show HN: '. _verb() .'.io - Get feedback on your designs with visual annotations';
-  $url = _url();
-  return array('title' => $title, 'url' => $url);
+  return 'Show HN: '. _verb() .'.io - Get feedback on your designs with visual annotations';
 }
 
 function fakenew_speed_up_url() {
-  $title = 'Our experience using '. _technique() .' to speed up '. _url();
-  $url = _url();
-  return array('title' => $title, 'url' => $url);
+  return 'Our experience using '. _technique() .' to speed up '. _url();
 }
 
-
-
-/* ============================== */
+// ============================== 
 
 function gimmerandomfromfile($file) {
   $input_file = $file;

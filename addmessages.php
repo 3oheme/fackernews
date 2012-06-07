@@ -13,7 +13,7 @@ foreach ($allfunctions['user'] as $key => $item) {
 for ($i = 1; $i <= 30; $i++) {
   $number = rand(0, count($allnews)-1);
   $new = call_user_func($allnews[$number]);
-  theme_new($new['title'], $new['url'], $i);
+  theme_new($new, _url(), $i);
 }
 
 function theme_new($name, $url, $position) {
