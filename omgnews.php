@@ -58,6 +58,14 @@ function fakenew_show_hn_design() {
   return array('title' => $title, 'url' => $url);
 }
 
+function fakenew_speed_up_url() {
+  $title = 'Our experience using '. _technique() .' to speed up '. _url();
+  $url = _url();
+  return array('title' => $title, 'url' => $url);
+}
+
+
+
 /* ============================== */
 
 function gimmerandomfromfile($file) {
