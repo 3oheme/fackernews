@@ -1,0 +1,14 @@
+Care about languages
+HTML5
+JavaScript as a first-class language
+Clojure
+CoffeeScript
+Domain-specific languages
+SASS, SCSS, and LESS
+Scala
+ClojureScript
+F#
+Functional Java
+Future of Java
+Google Dart
+Logic in stored procedures

@@ -1,0 +1,27 @@
+Git
+Github
+Infrastructure as code
+Client-side MVC
+FPM
+Frank
+Jade
+JavaScript micro frameworks
+JavaScript tooling
+Log aggregation & indexing
+Message buses without smarts
+NuGet
+Polyglot persistence
+PowerShell
+PSake
+Vagrant
+Gradle
+jQuery Mobile
+Logic-free markup
+Open source BI/ETL tools
+Riak
+Sonar
+Code in configuration
+Cross-platform mobile toolkits
+Enterprise service bus
+Maven
+VCS with implicit workflow
