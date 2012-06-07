@@ -22,6 +22,30 @@ function _verb() {
   return $names[rand(0, count($names)-1)];
 }
 
+function _tools() {
+  $input_file = 'tools.txt';
+  $names = explode("\n", file_get_contents($input_file));
+  return $names[rand(0, count($names)-1)];
+}
+
+function _techniques() {
+  $input_file = 'techniques.txt';
+  $names = explode("\n", file_get_contents($input_file));
+  return $names[rand(0, count($names)-1)];
+}
+
+function _platforms() {
+  $input_file = 'verbs.txt';
+  $names = explode("\n", file_get_contents($input_file));
+  return $names[rand(0, count($names)-1)];
+}
+
+function _languages() {
+  $input_file = 'verbs.txt';
+  $names = explode("\n", file_get_contents($input_file));
+  return $names[rand(0, count($names)-1)];
+}
+
 function _company() {
   $input_file = 'companies.txt';
   $names = explode("\n", file_get_contents($input_file));
