@@ -40,6 +40,24 @@ function fakenew_speed_up_url() {
   return 'Our experience using '. _technique() .' to speed up '. _url();
 }
 
+function fakenew_porting_program() {
+  return 'Designing '. _application() .' for '. _os();
+}
+
+function fakenew_program_obsolete() {
+  return _application() .' Will Soon Be Obsolete';
+}
+
+function fakenew_technique_process() {
+  return 'Using '. _technique() .' to process '. rand(1, 9) .' million transactions per second';
+}
+
+function fakenew_password_hack() {
+  return _company() .' Confirms Password Hack';
+}
+
+
+
 // ============================== 
 
 function gimmerandomfromfile($file) {
@@ -55,6 +73,8 @@ function _technique() { return gimmerandomfromfile('techniques.txt'); }
 function _platform() { return gimmerandomfromfile('platforms.txt'); }
 function _language() { return gimmerandomfromfile('languages.txt'); }
 function _company() { return gimmerandomfromfile('companies.txt'); }
+function _os() { return gimmerandomfromfile('os.txt'); }
+function _application() { return gimmerandomfromfile('applications.txt'); }
 function _url() { return gimmerandomfromfile('urls.txt'); }
 function _user_name() { return gimmerandomfromfile('users.txt'); }
 

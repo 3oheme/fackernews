@@ -1,0 +1,18 @@
+Windows XP
+Windows Vista
+Windows 7
+Linux
+Redhat
+RHEL
+Mac OS X
+Ubuntu
+Kubuntu
+FreeBSD
+GNU/Linux
+Unix
+OpenVMS
+AmigaOS
+Android
+iOS
+Symbian
+BlackBerry
