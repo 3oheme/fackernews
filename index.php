@@ -3,7 +3,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<link rel="stylesheet" type="text/css" href="./Hacker%20News_files/news.css">
+		<link rel="stylesheet" type="text/css" href="./files/news.css">
 		<link rel="shortcut icon" href="http://ycombinator.com/favicon.ico">
 		<script type="text/javascript">
 function byId(id) {
@@ -39,10 +39,10 @@ function byId(id) {
 								<tbody>
 									<tr>
 										<td style="width:18px;padding-right:4px">
-											<a href="http://ycombinator.com/"><img src="./Hacker%20News_files/y18.gif" width="18" height="18" style="border:1px #ffffff solid;"></a>
+											<a href="http://ycombinator.com/"><img src="./files/y18.gif" width="18" height="18" style="border:1px #ffffff solid;"></a>
 										</td>
 										<td style="line-height:12pt; height:10px;">
-											<span class="pagetop"><b><a href="http://news.ycombinator.com/news">Hacker News</a></b><img src="./Hacker%20News_files/s.gif" height="1" width="10"><a href="http://news.ycombinator.com/newest">new</a> | <a href="http://news.ycombinator.com/newcomments">comments</a> | <a href="http://news.ycombinator.com/ask">ask</a> | <a href="http://news.ycombinator.com/jobs">jobs</a> | <a href="http://news.ycombinator.com/submit">submit</a></span>
+											<span class="pagetop"><b><a href="http://news.ycombinator.com/news">Hacker News</a></b><img src="./files/s.gif" height="1" width="10"><a href="http://news.ycombinator.com/newest">new</a> | <a href="http://news.ycombinator.com/newcomments">comments</a> | <a href="http://news.ycombinator.com/ask">ask</a> | <a href="http://news.ycombinator.com/jobs">jobs</a> | <a href="http://news.ycombinator.com/submit">submit</a></span>
 										</td>
 										<td style="text-align:right;padding-right:4px;">
 											<span class="pagetop"><a href="http://news.ycombinator.com/newslogin?whence=%6e%65%77%73">login</a></span>
@@ -81,7 +81,7 @@ function byId(id) {
 					</tr>
 					<tr>
 						<td>
-							<img src="./Hacker%20News_files/s.gif" height="10" width="0">
+							<img src="./files/s.gif" height="10" width="0">
 							<table width="100%" cellspacing="0" cellpadding="1">
 								<tbody>
 									<tr>

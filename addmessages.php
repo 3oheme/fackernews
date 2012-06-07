@@ -27,7 +27,7 @@ function theme_new($name, $url, $position) {
     <td align="right" valign="top" class="title">'. $position .'.</td>
     <td>
       <center>
-        <a id="up_4073162" href="http://www.example.com"><img src="./Hacker%20News_files/grayarrow.gif" border="0" vspace="3" hspace="2"></a><span id="down_4073162"></span>
+        <a id="up_4073162" href="http://www.example.com"><img src="./files/grayarrow.gif" border="0" vspace="3" hspace="2"></a><span id="down_4073162"></span>
       </center>
     </td>
     <td class="title">
