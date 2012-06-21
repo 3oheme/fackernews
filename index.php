@@ -5,26 +5,6 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<link rel="stylesheet" type="text/css" href="./files/news.css">
 		<link rel="shortcut icon" href="http://ycombinator.com/favicon.ico">
-		<script type="text/javascript">
-function byId(id) {
-		return document.getElementById(id);
-		}
-
-		function vote(node) {
-		var v = node.id.split(/_/);   // {'up', '123'}
-		var item = v[1];
-
-		// hide arrows
-		byId('up_'   + item).style.visibility = 'hidden';
-		byId('down_' + item).style.visibility = 'hidden';
-
-		// ping server
-		var ping = new Image();
-		ping.src = node.href;
-
-		return false; // cancel browser nav
-		} 
-		</script>
 		<title>
 			Facker News
 		</title>
@@ -90,7 +70,17 @@ function byId(id) {
 								</tbody>
 							</table><br>
 							<center>
-								<span class="yclinks"><a href="https://github.com/3oheme/fackernews">Fork me at Github</a> | <a href="http://news.ycombinator.com/rss">RSS</a> | <a href="http://ycombinator.com/bookmarklet.html">Bookmarklet</a> | <a href="http://ycombinator.com/newsguidelines.html">Guidelines</a> | <a href="http://ycombinator.com/newsfaq.html">FAQ</a> | <a href="http://ycombinator.com/newsnews.html">News News</a> | <a href="http://news.ycombinator.com/item?id=363">Feature Requests</a> | <a href="http://ycombinator.com/">Y Combinator</a> | <a href="http://ycombinator.com/apply.html">Apply</a> | <a href="http://ycombinator.com/lib.html">Library</a></span><br>
+								<span class="yclinks">
+                  <a href="https://github.com/3oheme/fackernews">Fork me at Github</a> |
+                  <a href="http://www.3oheme.com">3oheme</a> |
+                  <a href="http://www.twitter.com/boheme">Twitter</a> |
+                  <a href="http://ycombinator.com/newsguidelines.html">Guidelines</a> |
+                  <a href="http://ycombinator.com/newsfaq.html">FAQ</a> |
+                  <a href="http://ycombinator.com/newsnews.html">News News</a> |
+                  <a href="http://news.ycombinator.com/item?id=363">Feature Requests</a> |
+                  <a href="http://ycombinator.com/">Y Combinator</a> |
+                  <a href="http://ycombinator.com/apply.html">Apply</a> |
+                  <a href="http://ycombinator.com/lib.html">Library</a></span><br>
 								<br>
 								<form method="get" action="http://www.hnsearch.com/search#request/all">
 									Search: <input type="text" name="q" value="" size="17">

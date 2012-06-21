@@ -1,0 +1,32 @@
+Care about languages
+HTML5
+JavaScript
+Clojure
+CoffeeScript
+Domain-specific languages
+SASS, SCSS, and LESS
+Scala
+ClojureScript
+F#
+Functional Java
+Future of Java
+Google Dart
+Logic in stored procedures
+Python
+Ruby
+C++
+PHP
+Visual Basic
+SQL
+Shell
+Assembly
+ActionScript
+Delphi
+Lisp
+Cobol
+Smalltalk
+Haskell
+Fortran
+Coldfusion
+Scheme
+Erlang

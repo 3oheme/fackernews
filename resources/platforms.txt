@@ -1,0 +1,28 @@
+ATOM
+AWS
+Care about hardware
+KVM
+Mobile web
+Domain-specific PaaS
+Heroku
+Linux containers
+Offline mobile webapps (just HTML5)
+Private clouds
+Tablet
+Ubiquitous computing
+Windows Phone 7
+AppHarbor
+Cloud Foundry
+GPGPU
+Hybrid clouds
+Node.js
+OpenSocial
+Single threaded servers with asynchronous I/O
+vFabric
+Buying solutions you can only afford one of
+GWT
+Java Portal Servers
+RIA
+Treating VMs like physical infrastructure
+WS-*
+Zero-code packages
