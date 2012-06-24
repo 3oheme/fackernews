@@ -1,10 +1,9 @@
-<!-- saved from url=(0028)http://news.ycombinator.com/ -->
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<link rel="stylesheet" type="text/css" href="./files/news.css">
-		<link rel="shortcut icon" href="http://ycombinator.com/favicon.ico">
+		<link rel="shortcut icon" href="./files/favicon.ico">
 		<title>
 			Facker News
 		</title>
@@ -19,13 +18,13 @@
 								<tbody>
 									<tr>
 										<td style="width:18px;padding-right:4px">
-											<a href="http://ycombinator.com/"><img src="./files/y18.gif" width="18" height="18" style="border:1px #ffffff solid;"></a>
+											<a href="#"><img src="./files/y18.gif" width="18" height="18" style="border:1px #ffffff solid;"></a>
 										</td>
 										<td style="line-height:12pt; height:10px;">
-											<span class="pagetop"><b><a href="http://news.ycombinator.com/news">Facker News</a></b><img src="./files/s.gif" height="1" width="10"><a href="http://news.ycombinator.com/newest">new</a> | <a href="http://news.ycombinator.com/newcomments">comments</a> | <a href="http://news.ycombinator.com/ask">ask</a> | <a href="http://news.ycombinator.com/jobs">jobs</a> | <a href="http://news.ycombinator.com/submit">submit</a></span>
+											<span class="pagetop"><b><a href="#">Facker News</a></b><img src="./files/s.gif" height="1" width="10"><a href="#">new</a> | <a href="#">comments</a> | <a href="#">ask</a> | <a href="#">jobs</a> | <a href="#">submit</a></span>
 										</td>
 										<td style="text-align:right;padding-right:4px;">
-											<span class="pagetop"><a href="http://news.ycombinator.com/newslogin?whence=%6e%65%77%73">login</a></span>
+											<span class="pagetop"><a href="#">login</a></span>
 										</td>
 									</tr>
 								</tbody>
@@ -52,7 +51,7 @@
 									<tr>
 										<td colspan="2"></td>
 										<td class="title">
-											<a href="http://news.ycombinator.com/news2">More</a>
+											<a href="#">More</a>
 										</td>
 									</tr>
 								</tbody>
@@ -74,15 +73,15 @@
                   <a href="https://github.com/3oheme/fackernews">Fork me at Github</a> |
                   <a href="http://www.3oheme.com">3oheme</a> |
                   <a href="http://www.twitter.com/boheme">Twitter</a> |
-                  <a href="http://ycombinator.com/newsguidelines.html">Guidelines</a> |
-                  <a href="http://ycombinator.com/newsfaq.html">FAQ</a> |
-                  <a href="http://ycombinator.com/newsnews.html">News News</a> |
-                  <a href="http://news.ycombinator.com/item?id=363">Feature Requests</a> |
-                  <a href="http://ycombinator.com/">Y Combinator</a> |
-                  <a href="http://ycombinator.com/apply.html">Apply</a> |
-                  <a href="http://ycombinator.com/lib.html">Library</a></span><br>
+                  <a href="#">Guidelines</a> |
+                  <a href="#">FAQ</a> |
+                  <a href="#">News News</a> |
+                  <a href="#">Feature Requests</a> |
+                  <a href="#">Y Combinator</a> |
+                  <a href="#">Apply</a> |
+                  <a href="#">Library</a></span><br>
 								<br>
-								<form method="get" action="http://www.hnsearch.com/search#request/all">
+								<form method="get" action="#">
 									Search: <input type="text" name="q" value="" size="17">
 								</form><br>
 							</center>

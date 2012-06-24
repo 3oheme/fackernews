@@ -1,0 +1,10 @@
+Chrome
+Firefox
+Opera
+Safari
+Internet Explorer
+IE6
+IE7
+IE8
+IE9
+Netscape

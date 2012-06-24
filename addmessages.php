@@ -2,49 +2,7 @@
 
 include 'omgnews.php';
 
-print_news_better_style(1);
-
-function print_news_old_style($number) {
-  $allfunctions = get_defined_functions();
-  $allnews = array();
-  foreach ($allfunctions['user'] as $key => $item) {
-    if (substr($item, 0, 7) == 'fakenew') {
-      $allnews[] = $item;
-    }
-  }
-
-  for ($i = 1; $i <= $number; $i++) {
-    $number = rand(0, count($allnews)-1);
-    $new = call_user_func($allnews[$number]);
-    theme_new($new, _urls(), $i);
-  }
-}
-
-function parse_news_txt() {
-
-  $files = scandir('resources');
-  $resources = array();
-  foreach ($files as $file) {
-    if ($file[0] != '.') {
-      $name = preg_replace('/\.[^.]*$/', '', $file);
-      $resources[$name] = 'resources/'. $file;
-    }
-  }
-
-  $news = explode("\n", file_get_contents('news.txt'));
-
-  foreach ($resources as $name => $file) {
-    $words = explode("\n", file_get_contents($file));
-    foreach ($words as $word) {
-      foreach ($news as $pos => $new) {
-        $news[$pos] = str_replace($word, '§'. $name, $new);
-      }
-    }
-  }
-
-  return $news;
-}
-
+print_news_better_style(30);
 
 function load_all_news() {
   $news = explode("\n", file_get_contents('allnews.txt'));
@@ -52,7 +10,7 @@ function load_all_news() {
 }
 
 function gimme_one_new($all_news) {
-  $number = rand(0, count($all_news)-1); 
+  return $all_news[rand(0, count($all_news)-1)];
 } 
 
 function load_all_resources() {
@@ -67,17 +25,32 @@ function load_all_resources() {
   return $resources;
 }
 
-function parse_and_replace_tokens(&$new) {
-  $resources = load_all_resources();
+function change_items_for_tokens(&$new, $resources) {
   foreach ($resources as $name => $file) {
     $words = explode("\n", file_get_contents($file));
     foreach ($words as $word) {
       $new = str_replace($word, '§'. $name, $new);
     }
   }
-  if (strpos($new, '§') !== FALSE) {
-    while (strpos($new, '§') !== FALSE) {
-      $new = change_tokens($new, $resources);
+}
+
+function there_are_any_token($new) {
+  return strpos($new, '§') !== FALSE ? TRUE : FALSE;
+}
+
+function change_tokens_for_funny_stuff($string, $tokens) {
+  foreach ($tokens as $token => $resource) {
+    $string = preg_replace('/§'. $token .'/', call_user_func('_'. $token), $string, 1);
+  }
+  return $string;
+}
+
+function parse_and_replace_tokens(&$new) {
+  $resources = load_all_resources();
+  change_items_for_tokens($new, $resources);
+  if (there_are_any_token($new)) {
+    while (there_are_any_token($new)) {
+      $new = change_tokens_for_funny_stuff($new, $resources);
     }
     return TRUE;
   }
@@ -93,38 +66,6 @@ function print_news_better_style($number) {
       theme_new($new, _urls(), $i);
     }
   }
-}
-
-function print_news_new_style($number) {
-  $files = scandir('resources');
-  $resources = array();
-  foreach ($files as $file) {
-    if ($file[0] != '.') {
-      $name = preg_replace('/\.[^.]*$/', '', $file);
-      $resources[$name] = 'resources/'. $file;
-    }
-  }
-
-  $news = parse_news_txt();
-  
-  $i = 0;
-  while ($i < $number) {
-    $new = $news[rand(0, count($news)-1)];
-    if (strpos($new, '§') !== FALSE) {
-      $i = $i + 1;
-      while (strpos($new, '§') !== FALSE) {
-        $new = change_tokens($new, $resources);
-      }
-      theme_new($new, _urls(), $i);
-    }
-  }
-}
-
-function change_tokens($string, $tokens) {
-  foreach ($tokens as $token => $resource) {
-    $string = preg_replace('/§'. $token .'/', call_user_func('_'. $token), $string, 1);
-  }
-  return $string;
 }
 
 function theme_new($name, $url, $position) {
