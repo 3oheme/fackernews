@@ -1,6 +1,26 @@
-Fackernews! - fake hacker news
-______________________________________
+Fackernews! - fake hacker news generator
+________________________________________
 
-Just a silly Fake hacker news generator
+Just a silly Fake hacker news generator.
 
-Style and kudos and all the copyright from http://news.ycombinator.com/
+Q: How?
+
+Quite simple and straightforward:
+
+1.- Took a list of news from some old database.
+2.- Created manually or from internet list of different items.
+3.- PHP stupid script to load a random new and try to change any occurrence
+    of a string for any other item of that list.
+4.- Thats all. Sometimes is funny, others just silly.
+
+Sorry, no IA, no language processing, no neuronal networks.
+
+Q: Why?
+
+A: Two reasons: First of all because sometimes it looks like that all hacker
+news are always the same, just changing some company/app/version/lang. And
+also because I think it can be also sort of inspirational think, connecting
+different subjects and creating new and - sometimes interesting - news.
+
+Style and kudos and all the copyright to the Y Combinator team
+http://news.ycombinator.com/
