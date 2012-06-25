@@ -10,7 +10,6 @@ function gimmerandomfromfile($file) {
   return $output;
 }
 
-function _verbs() { return gimmerandomfromfile('resources/verbs.txt'); }
 function _browsers() { return gimmerandomfromfile('resources/browsers.txt'); }
 function _ceo() { return gimmerandomfromfile('resources/ceo.txt'); }
 function _tools() { return gimmerandomfromfile('resources/tools.txt'); }
