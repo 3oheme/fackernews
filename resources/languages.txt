@@ -2,6 +2,7 @@ Care about languages
 HTML5
 JavaScript
 Clojure
+Rails
 CoffeeScript
 Domain-specific languages
 SASS, SCSS, and LESS

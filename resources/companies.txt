@@ -14,3 +14,7 @@ Facebook
 Amazon
 SoundCloud
 Reddit
+Zynga
+Yahoo
+AMD
+Feedburner

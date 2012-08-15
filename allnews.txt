@@ -3,7 +3,7 @@
     Droid Doesn't: It's Not Ready For Prime Time
     Square's On-the-Go iPhone Credit Card Scanner Will Cost $1
    Facebook's 1st CTO Launches His Next Company (Screen Shots)
-   Interview with Amr Awadallah Ã¢â‚¬â€œ Cloudera CTO
+   Interview with Amr Awadallah » Cloudera CTO
   Aardvark Mulls Over A $30+ Million Offer From Google 
   Algorithmic recruitment with GitHub
   Chapter 5 of the Ruby on Rails Tutorial book is out
@@ -60,7 +60,7 @@
   Yahoo Open Sources Traffic Server 
   ZumoDrive Lands $1.5 Million For Cloud Storage And Syncing Application 
   Zynga Takes Steps To Remove Scams From Games 
-  Ã¢â‚¬Å“Horrible ThingsÃ¢â‚¬Â Slink Back Into Zynga 
+  “Horrible Things“ Slink Back Into Zynga 
  'Shorter' people get more lung disease
  2010-02-26 beyond the door (warp speed)
  A Concise and Precise Definition of P-Value (a vaccine discussion)
@@ -151,21 +151,8 @@
 " 	Online Development Studio - CodeRun"
 " 	Your Abomination Is My Clever Hack"
 " Stack Overflow Has Open Sourced Markdown/C# 	"
-"Bootstrap or Die - Lessons Learned From a Web Startup's Murder/Suicide;,;2;,;chris123;,;2010-02-06 14:05:08;,;1;,;15;,;2010-02-06 15:00:08;,;1106212;,;HackerNews;,;662c97;
-"Bootstrap or Die - Lessons Learned From a Web Startup's Murder/Suicide;,;3;,;chris123;,;2010-02-06 14:30:04;,;1;,;12;,;2010-02-06 15:30:04;,;1106212;,;HackerNews;,;972aae;
-"Bootstrap or Die - Lessons Learned From a Web Startup's Murder/Suicide;,;3;,;chris123;,;2010-02-06 14:30:04;,;1;,;19;,;2010-02-06 16:30:04;,;1106212;,;HackerNews;,;352ec3;
-"Bootstrap or Die - Lessons Learned From a Web Startup's Murder/Suicide;,;3;,;chris123;,;2010-02-06 15:00:09;,;1;,;16;,;2010-02-06 16:00:09;,;1106212;,;HackerNews;,;8a0e5b;
-"Bootstrap or Die - Lessons Learned From a Web Startup's Murder/Suicide;,;4;,;chris123;,;2010-02-06 15:00:12;,;1;,;19;,;2010-02-06 17:00:12;,;1106212;,;HackerNews;,;3476b0;
-"Bootstrap or Die - Lessons Learned From a Web Startup's Murder/Suicide;,;5;,;chris123;,;2010-02-06 14:30:04;,;1;,;20;,;2010-02-06 17:30:04;,;1106212;,;HackerNews;,;246b62;
-"Bootstrap or Die - Lessons Learned From a Web Startup's Murder/Suicide;,;6;,;chris123;,;2010-02-06 14:30:06;,;1;,;26;,;2010-02-06 18:30:06;,;1106212;,;HackerNews;,;84d68;
-"Bootstrap or Die - Lessons Learned From a Web Startup's Murder/Suicide;,;6;,;chris123;,;2010-02-06 15:00:03;,;1;,;23;,;2010-02-06 18:00:03;,;1106212;,;HackerNews;,;661e2a;
-"Bootstrap or Die - Lessons Learned From a Web Startup's Murder/Suicide;,;6;,;chris123;,;2010-02-06 15:00:10;,;2;,;27;,;2010-02-06 19:00:10;,;1106212;,;HackerNews;,;50d474;
-"Bootstrap or Die - Lessons Learned From a Web Startup's Murder/Suicide;,;7;,;chris123;,;2010-02-06 14:30:05;,;3;,;28;,;2010-02-06 19:30:05;,;1106212;,;HackerNews;,;b03f0a;
-"Bootstrap or Die - Lessons Learned From a Web Startup's Murder/Suicide;,;8;,;chris123;,;2010-02-06 14:15:05;,;3;,;30;,;2010-02-06 20:15:05;,;1106212;,;HackerNews;,;959fb6;
-"Bootstrap or Die - Lessons Learned From a Web Startup's Murder/Suicide;,;8;,;chris123;,;2010-02-06 14:45:04;,;3;,;29;,;2010-02-06 19:45:04;,;1106212;,;HackerNews;,;33a44c;
-"Bootstrap or Die - Lessons Learned From a Web Startup's Murder/Suicide;,;8;,;chris123;,;2010-02-06 15:00:09;,;3;,;29;,;2010-02-06 20:00:09;,;1106212;,;HackerNews;,;2a9f63;
 "Evolving Java Without Changing the Language 	"
-"Oppose HB 1192 Ã¢â‚¬â€œ The Ã¢â‚¬Å“Software TaxÃ¢â‚¬Â 			 		"
+"Oppose HB 1192 » The “Software Tax“ 			 		"
 #1 Rule of Programming Is..
 #1 Thought Leader: Steve Jobs by Fake Steve Jobs
 $0.99 iPhone apps are underpriced
@@ -178,7 +165,7 @@ $300 Home-Brew Street-View Camera
 $35 Airbnb Gift Card for Startup School
 $400 for a logo? Why are you so expensive?
 $53,000 profit in 3 months--from books? Insights gained from xkcd: volume 0
-$675,000 RIAA File Sharing Verdict Is Ã¢â‚¬ËœUnreasonable'
+$675,000 RIAA File Sharing Verdict Is 'Unreasonable'
 $70 million Veoh.com filing for Chapter 7 bankruptcy. Letter from Founder.
 $89 pocket oscilloscope
 &lt
@@ -456,7 +443,7 @@ $89 pocket oscilloscope
 400,000 XO Laptops in Uruguay Cannot be Wrong
 40s-era Mechanical Fire Control Computers Explained
 49 vulnerable House Web sites
-4chan Founder Ã¢â‚¬Å“mootÃ¢â‚¬Â to Speak at TED
+4chan Founder “moot“ to Speak at TED
 4chan vs Scientology: really? 
 4chan's YouTube porn prank
 4chan's moot takes pro-anonymity to TED 2010
@@ -468,7 +455,7 @@ $89 pocket oscilloscope
 5 Lessons Learned while Raising Angel Investment
 5 Life Changing Habits
 5 Myths That Can Kill a Startup
-5 Reasons Founders Hate the Question Ã¢â‚¬Å“So What Do You Do?Ã¢â‚¬Â
+5 Reasons Founders Hate the Question “So What Do You Do?“
 5 Reasons I'm addicted to Chrome
 5 Startups Launch At Capital Factory's Demo Day In Austin
 5 Things I Wish Someone Had Told Me (about starting a company)
@@ -729,7 +716,7 @@ A Third of Dinosaur Species Never Existed?
 A Thousand Foot View of Machine Learning
 A Time Machine time bomb
 A Tool to Deceive and Slaughter
-A Tour Of A Ã¢â‚¬Å“Pay to Download FirefoxÃ¢â‚¬Â Site
+A Tour Of A “Pay to Download Firefox“ Site
 A Tour of Soviet Supercomputing (1996)
 A Tutorial Introduction To The Language B
 A Twitter Bot in One Line of Code
@@ -743,7 +730,7 @@ A Virtual Revolution Is Brewing for Colleges
 A Web UI Designer's Toolset
 A Widget to embed up-to-date code from Github on a page
 A Working Programmer's Guide to Type-Indexed Values
-A Year in the life of a SaaS accounting web app Ã¢â‚¬â€œ Numbers and Strategy
+A Year in the life of a SaaS accounting web app » Numbers and Strategy
 A bad workman blames his tools
 A basic usability test on ten phones
 A big collection of jQuery and Ajax project Demos
@@ -936,7 +923,7 @@ ACTA absurdity continues, may only get worse
 AGPL != Awesome GPL
 AIMA 3rd edition (Russel, Norvig) available for pre-order now
 AIMA 3rd edition (Russell, Norvig) available for pre-order now
-AJAX Frameworks Ã¢â‚¬â€œ Comparative Study
+AJAX Frameworks » Comparative Study
 AJAX PHPMyAdmin Alternative
 AJAX and Network-side Scripting
 ALMS Countdown iPhone App approved in 3h42m
@@ -1262,8 +1249,8 @@ Amazon: Google book deal possibly illegal, definitely bad
 Amazon: More aggressive than you think. Map of acquisitions & investments 
 Amazon: We Don't Have Cloud Capacity Issues
 AmazonBasics: Bezos and Co. starts private-label consumer electronics line
-Ambidextrous children Ã¢â‚¬Ëœat more risk of having learning difficulties'
-Ambient Life Ã¢â‚¬â€œ Animated Vision Of The Future
+Ambidextrous children 'at more risk of having learning difficulties'
+Ambient Life » Animated Vision Of The Future
 Ambition and Imagination
 America as Texas vs. California, Part II
 America as Texas vs. California, Part III
@@ -1311,7 +1298,7 @@ An End to Sarbanes-Oxley?
 An Engineer With Too Much Time On His Hands
 An Engineer's Guide to Bandwidth
 An Engineer's Guide to DNS
-An Entrepreneurial Counter Culture is Looming Ã¢â‚¬â€œ The Startup Market is Not OK
+An Entrepreneurial Counter Culture is Looming » The Startup Market is Not OK
 An Entrepreneurial Life
 An Explanation of Computation Theory for Lawyers
 An First Look at some Lean Startup Metrics Numbers
@@ -1402,8 +1389,8 @@ Ancient Rome's swiss army knife
 And if only 1% of those people...
 And now for Amazongate
 And now for Amazongate (the river, not the company)
-And now, some smoking guns (or Ã¢â‚¬Å“part two of angels that chargeÃ¢â‚¬Â)
-Andreessen On Skype:Ã¢â‚¬Å“One Of The Most Important Companies On the Internet.Ã¢â‚¬Â 
+And now, some smoking guns (or “part two of angels that charge“)
+Andreessen On Skype:“One Of The Most Important Companies On the Internet.“ 
 Andreessen's Advice To Old Media: "Burn The Boats"
 Andreessen: Watching Netscape Disintegrate
 Andrew Marr: Why I've Given Up Shampooing My Hair
@@ -1466,7 +1453,7 @@ Announcing The Release Of...DiggTV
 Announcing Tonido Screenshare- Share your PC's screen via a browser
 Announcing TypePad Micro
 Announcing Ubuntu 10.04 LTS: The Lucid Lynx
-Announcing the Firefox 4 Design Challenge Ã¢â‚¬â€œ The Home Tab
+Announcing the Firefox 4 Design Challenge » The Home Tab
 Announcing the Great American Hackathon
 Announcing the NYC Startup Job Fair
 Announcing the Official jQuery Podcast - first guest John Resig
@@ -1483,7 +1470,7 @@ Anonymous hacks Australian Government in response to Internet censorship
 Anonymous sources: an experiment
 Another Linux file notification subsystem
 Another World level ported to Javascript
-Another example of how Ã¢â‚¬Ëœcitizen journalists' can't handle the truth
+Another example of how 'citizen journalists' can't handle the truth
 Another major Rackspace outage. (I'm moving my servers)
 Another puzzle: what's the radius ...
 Answer the Freaking Question
@@ -1517,7 +1504,7 @@ App Steals Personal Data from ALL (Virgin+Jailbroken) iPhones like a Trojan
 App Store Adds Explicit Category for iPhone Apps
 App Store Heresies: Higher Price, Better Ratings. Don't Discount Your App.
 App Store rejections may benefit indie iPhone developers 
-App Store Ã¢â‚¬Å“Released DateÃ¢â‚¬Â Lists Now Omitting Updates
+App Store “Released Date“ Lists Now Omitting Updates
 AppFund
 AppFund: YC for iPad Apps
 AppStore Developers Aren't Millionaires, But Some Are Living Life Richly
@@ -1576,7 +1563,7 @@ Apple Tablet Has No Intel Inside
 Apple Tablet Heads to Verizon
 Apple Tablet Twit
 Apple Unleashes New Macs, Multitouch Mouse
-Apple Unveils Ã¢â‚¬ËœLive Music' in iTunes
+Apple Unveils 'Live Music' in iTunes
 Apple Wouldn't Risk Its Cool Over an Ad Gimmick, Would It?
 Apple admits use of child labour in China
 Apple admits using child labour
@@ -1625,7 +1612,7 @@ Apple plans Mighty Mouse makeover
 Apple plans to embed ads in operating system
 Apple prohibits App Store devs from using location-based ads
 Apple quits the U.S. Chamber of Commerce over opposition to EPA
-Apple releases new 27Ã¢â‚¬Â³ LED Cinema Display Ã¢â‚¬â€œ comes with a free Mac
+Apple releases new 27Ã¢â‚¬Â³ LED Cinema Display » comes with a free Mac
 Apple responsible for 99.4% of mobile app sales in 2009
 Apple says booting OS X makes an unauthorized copy
 Apple sends iPhones into 'Coma Mode'
@@ -2765,7 +2752,7 @@ BPA-free Sigg water bottles actually contain BPA
 BREAKING: Google Announces Social Search
 BSD and Linux Differences 
 BYD's Incredibly Sensible House of the Future
-Babbel dumps freemium for language learning: Ã¢â‚¬Å“it just doesn't workÃ¢â‚¬Â
+Babbel dumps freemium for language learning: “it just doesn't work“
 Babies 'cry in mother's tongue'
 Babies Cry With an Accent, Study Finds
 Babies not as innocent as they pretend - Telegraph
@@ -2814,7 +2801,7 @@ Bard (a new Lisp from Mikel Evins)
 BareMetal: A 64-bit OS in 16kb
 Barefoot Running
 Barefoot running: the best trainers money can't buy
-Barnes & Noble Ã¢â‚¬ËœNook' e-book reader out Tuesday
+Barnes & Noble 'Nook' e-book reader out Tuesday
 Basecamp: A Clear and Present Brand
 Baseline - a framework built with typographic standards in mind
 Bash Shortcuts For Maximum Productivity
@@ -2899,7 +2886,7 @@ Berlingske Media steals sports fantasy game from small partner [in danish]
 Bertrand Russell, "On Sales Resistance"
 Bespin Embedded 0.6.1: Syntax Highlighting Rebooted
 Bespin Ã‚Â» Code in the Cloud
-Bessemer Snags a Ã¢â‚¬Å“Designer In ResidenceÃ¢â‚¬Â From Mint.com
+Bessemer Snags a “Designer In Residence“ From Mint.com
 Bessemer Venture's anti-portfolio, deals they passed on but should have taken
 Best Bet CSS Practices
 Best Buy Optimization Is A Big Stupid Annoying Waste Of Money
@@ -2930,9 +2917,9 @@ Beware Developers: App Removed From App Store At Request of Competition
 Beware The Reverse Brain Drain To India And China
 Beware humans bearing gifts.
 Beyond PageRank: Learning with Content and Networks
-Beyond aesthetics Ã¢â‚¬â€œ Design tips for startups
+Beyond aesthetics » Design tips for startups
 Bezos defends model of keeping 65% of (kindle) book revenue
-Bezos Ã¢â‚¬Ëœastonished' by Kindle success
+Bezos 'astonished' by Kindle success
 Biased Locking in the JVM
 Big 4 Fall Out Over Grooveshark
 Big Ball of Mud
@@ -2975,7 +2962,7 @@ Billions Served: Norman Borlaug interview (2000)
 Binary tree traversal in Python with generators
 Bing Loves The Porn Hounds
 Bing So That's What A Swizzle Stick Is.
-Bing censors sexual & LGBT content in Ã¢â‚¬Å“Arabian countriesÃ¢â‚¬Â
+Bing censors sexual & LGBT content in “Arabian countries“
 Bing considers paying sites to delist themselves from Google
 Bing for mobile comes to the iPhone
 Bing is Bringing Twitter Search to You
@@ -3044,7 +3031,7 @@ Bogus Copyright Claim Silences Yet Another Larry Lessig YouTube Presentation
 Bombax: OS X Web Development Platform
 Bonuses don't mean better performance
 Booby-Trapped Treasure Buried off the Coast of Nova Scotia?
-Boogie Board writing tablet costs $30, features Ã¢â‚¬Ëœno power LCD technology'
+Boogie Board writing tablet costs $30, features 'no power LCD technology'
 Book Machine at Harvard Bookstore
 Book Review: Coders at Work
 Book Review: Coders at work
@@ -3117,7 +3104,7 @@ Brainstorming a sane app review process (Feedback wanted)
 Brainwashed: How to Reinvent Yourself (Seth Godin)
 Bram Cohen is kind of a meanie :(
 Bram Cohen: Comments on Go
-Bram Cohen: Ã¢â‚¬Å“Lawyers can't tell you you can't do somethingÃ¢â‚¬Â
+Bram Cohen: “Lawyers can't tell you you can't do something“
 Bramcohen: A new card game
 Brand building mistakes France's (and most International) entrepreneurs make
 Brands That Will Disappear In 2010
@@ -3205,7 +3192,7 @@ Building Up: Nine-Foot High Server Racks
 Building a 30 million kWh Social Power Array using Facebook, PC Power Management
 Building a Better Mailbox - A Tale of Determination
 Building a Clojure Web application with Incanter, Compojure, and Leiningen
-Building a Company with Customer Data Ã¢â‚¬â€œ Why Metrics Are Not Enough
+Building a Company with Customer Data » Why Metrics Are Not Enough
 Building a Data Intensive Web Application with Hadoop
 Building a JIT compiler for PHP in 2 days
 Building a Scorecard for Open Source
@@ -3310,9 +3297,9 @@ CSS is for design, HTML is for content - CSS Zen Garden
 CSS sprites shouldn't add production time (and 4 other tips)
 CSS techniques
 CSS3 loading spinners without images
-CSS3 Ã¢â‚¬Å“SnowStackÃ¢â‚¬Â Demo Ã¢â‚¬â€œ 3D Photo Gallery Using Flickr API
+CSS3 “SnowStack“ Demo » 3D Photo Gallery Using Flickr API
 CSSHttpRequest is cross-domain AJAX using CSS
-CSScaffold Ã¢â‚¬â€œ Using PHP to Extend the Abilities of CSS
+CSScaffold » Using PHP to Extend the Abilities of CSS
 CUDA and OpenCL run time comparison using Vector Addition
 CUDA to x86 compiler, project Ocelot
 CUFP 2009 Keynote - Real World Haskell
@@ -3508,7 +3495,7 @@ Chile Earthquake May Have Shortened Days on Earth
 Chile Wants Your Poor, Your Huddled Masses, Your Tech Entrepreneurs
 Chile earthquake pics
 China Accuses U.S. of Cyberwarfare
-China Blocks Wired.com With Ã¢â‚¬ËœGreat Firewall'
+China Blocks Wired.com With 'Great Firewall'
 China Buys 80 Very High Speed Train (236 mph) for $4 Billion
 China Buys 80 Very High Speed Trains (236 mph) for $4 Billion
 China Cracks Down on Tor Anonymity Network
@@ -3539,7 +3526,7 @@ China's nonstop music machine - Baidu versus business
 China: Google attack part of widespread spying effort
 China: Google in China Is Like China in Africa
 Chinese Hacker Behind Google Attack Found
-Chinese Python: Ã¢â‚¬Å“Translating a programming languageÃ¢â‚¬Â
+Chinese Python: “Translating a programming language“
 Chinese Twitter users live in a density 2x to 8x their English counterparts.
 Chinese booklet scanned at 1800 pages per hour
 Chinese censorship: The real stake in "free flow of information"
@@ -3559,7 +3546,7 @@ Choosing a vector difference function
 Chordoma Cancer Sucks (Feedback Please)
 Christmas Bomber: Where Airport Security Worked
 Christmas Lights Gone Wild
-Christopher Blizzard: HTML5 video and H.264 Ã¢â‚¬â€œ what history tells us
+Christopher Blizzard: HTML5 video and H.264 » what history tells us
 Chroma-Hash, Revisited
 Chrome 140 : Simple Twitter client for Chrome
 Chrome 5 Beta Released
@@ -3600,7 +3587,7 @@ City requires Facebook passwords from job applicants
 City-go-round: Open transit data for 89 cities
 CitySourced: Lessons learned from our TC50 experience
 Cl-gtk2 is ASDF-installable
-Cl-gtk2 is ASDF-installable Ã‚Â« cl-gtk2 Ã¢â‚¬â€œ a Common Lisp GUI library
+Cl-gtk2 is ASDF-installable Ã‚Â« cl-gtk2 » a Common Lisp GUI library
 Claims of Himalayan glacier meltdown based entirely on a single short phone call
 Clarifying How Kiva Works
 Clarity - an open source web interface to grep and tail 
@@ -3633,7 +3620,7 @@ Climate chief was told glacier claims false before Copenhagen
 Climate scientists admit fresh error over data on rising sea levels
 Climate scientists beginning to admit mistakes and open up their data.
 Climategate
-Climategate: the final nail in the coffin of Ã¢â‚¬ËœAnthropogenic Global Warming'?
+Climategate: the final nail in the coffin of 'Anthropogenic Global Warming'?
 Clinical Trial Rule Is Widely Ignored
 Clive Thompson on How Group Think Rules What We Like
 Clmategate prof admits no warming since 1995
@@ -3827,7 +3814,7 @@ Complaining is a drug. We get addicted to the euphoria of self importance.
 Complaints I'm Seeing About Common Lisp (2007)
 Compleat: Programmable bash completion for everyone
 Compleat: Programmable bash completion for human beings
-Complete Genomics To Sequence 1 Million Genomes Ã¢â‚¬â€œ Interview With CEO
+Complete Genomics To Sequence 1 Million Genomes » Interview With CEO
 Complete IDE Disk Driver in Forth
 Complete Notes to Good Calories, Bad Calories by Gary Taubes | Higher Thought
 Complete Set of Founder Friendly Legal Docs
@@ -3855,7 +3842,7 @@ Computer Science In Javascript
 Computer Vision Video Lectures
 Computer program claims Shakespeare didn't work alone
 Computer science lacks women, minorities
-Computer Ã¢â‚¬ËœGlitch' Grounds Air Traffic
+Computer 'Glitch' Grounds Air Traffic
 Computer-aided crash?
 Computers Shown to Read Lips Better Than (Some) Humans
 Computers and Mathematics: Problems & Prospects by Ron Graham
@@ -3866,7 +3853,7 @@ Computing the maximum salary
 Comscore, Calacanis, Quantcast, etc
 Con Kolivas releases BFS, alternative to mainline scheduler
 ConceptBase Now Available Under BSD License
-ConceptRobots Ã¢â‚¬â€œ Seriously Awesome Images Of Robots
+ConceptRobots » Seriously Awesome Images Of Robots
 Conception, birth and developement of a Free math software (Sage) 
 Conceptual metaphor
 Concise Python Code
@@ -3911,7 +3898,7 @@ Considering Applying to Y Combinator?
 Consistent Hashing for Scaling Out
 Consistent Hashing with Haskell
 Constitution for Governance of Open-Source Projects (v20100227)
-Construction Crew Severs Secret Ã¢â‚¬ËœBlack Line' (2009/2000)
+Construction Crew Severs Secret 'Black Line' (2009/2000)
 Consume Less. Create More.
 Consumer Liquidity, Fingerhut, and Good vs. Evil
 Consumer getting left out
@@ -4099,7 +4086,7 @@ Custom URL Shortener/ID Encoder in Transact-SQL
 Custom radio and checkbox inputs using CSS
 Customer Buying Hierarchy
 Customer Development Checklist for My Web Startup
-Customer Development Checklist for My Web Startup Ã¢â‚¬â€œ Part 2
+Customer Development Checklist for My Web Startup » Part 2
 Customer Development Interviews How-to: Finding People
 Customer Development Manifesto: Market Type (part 4)
 Customer Development Manifesto: The Path of Warriors and Winners (part 5) 
@@ -4141,7 +4128,7 @@ DC Gov Builds Amazing Open Gov Dashboard
 DDG is flattered by GOOG's imitation of Lockable Safe Search
 DD_belatedPNG: Medicine for your IE6/PNG headache
 DEF CON 17 Audio and Video Released
-DEFUN 2009: M4 Ã¢â‚¬â€œ Multicore Programming in Haskell Now
+DEFUN 2009: M4 » Multicore Programming in Haskell Now
 DHH: Think of emails as views delivered through SMTP
 DIY - Social Network Analysis on your Outlook Inbox Relationships
 DIY Lasr Tag System
@@ -4203,7 +4190,7 @@ Dark Stalking on Facebook
 Darkness Increases Dishonest Behavior
 Darpa Puts On Contest to Find 10 Red Balloons Across U.S.
 Darpa announces Network Challenge winner (MIT Red Balloon Challenge Team)
-Darpa's Simulated Cat Brain Project a Ã¢â‚¬ËœScam': Top Scientist
+Darpa's Simulated Cat Brain Project a 'Scam': Top Scientist
 Darpa's latest challenge: Locate these 10 balloons
 Darwin's Influence on Modern Thought
 Darwinian Theory of Legal Obfuscation
@@ -4228,7 +4215,7 @@ Data munging with SQL and R (video)
 Data sent home by Ã‚Âµtorrent
 Data, data everywhere
 Data-Oriented Design (Why You Might Be Shooting Yourself in The Foot With OOP)
-Data.gov.uk versus Data.gov Ã¢â‚¬â€œ Which wins?
+Data.gov.uk versus Data.gov » Which wins?
 Database - too many options
 Database taxonomy
 Databases Should be Dynamically Typed
@@ -4281,7 +4268,7 @@ Death of OS X VLC Exaggerated
 Death of the American Empire...
 Death to Filesystems
 Death to Internet Explorer Long Live Internet Explorer
-Debian Ã¢â‚¬â€œ The Universal Operating System
+Debian » The Universal Operating System
 Debt, equity and a third thing that might work better
 Debugger and live conferences still important in cyber-2009
 Debugging Django Using Flickzeug
@@ -4382,7 +4369,7 @@ Developer & Community links are gone from MySQL.com web-site
 Developer Must Haves
 Developer Of Facebook's Massively Popular iPhone App Quits The Project
 Developer Retrospective
-Developers are from Mars, Designers from Venus Ã¢â‚¬â€œ A question of metaphors
+Developers are from Mars, Designers from Venus » A question of metaphors
 Developers vs iphone
 Developers, Be Warned: Apple Has Apparently TMed Those Glossy Chat Bubbles
 Developers: You Are What's Wrong With the iPhone AppStore 
@@ -4614,7 +4601,7 @@ Does your company really want to hang out with me?
 Does your site rank lower in Google than you think?
 Does your startup pass The Sleep Test
 Does your startup pass The Sleep Test?
-Does Ã¢â‚¬Ëœmicrolending' actually fight poverty?
+Does 'microlending' actually fight poverty?
 Doesn't feel like work (or I've forgotten)
 Dogfooding Google Chrome
 Dogfooding considered solipsistic
@@ -4743,7 +4730,7 @@ Drucker on Apple
 Drug money saved banks in global crisis
 Drum Wear: build a drum kit into your pants
 Drupal 7.0 Alpha 2 has been released
-Drupal Goes Hosted With Private Beta Launch of Ã¢â‚¬Å“GardensÃ¢â‚¬Â
+Drupal Goes Hosted With Private Beta Launch of “Gardens“
 Drupal Moves Into the White House
 Drupal Sucks
 Drupal or Django? A Guide for Decision Makers
@@ -4836,7 +4823,7 @@ Ebay hoped to acquire Craigslist
 Ebert's review of Avatar
 Eclair is now in AOSP
 Eclipse Color Themes
-Economic Lessons From Ã¢â‚¬ËœMad Men'
+Economic Lessons From 'Mad Men'
 Economic Stimulus Funds Went to Climategate Scientist
 Economic bubbles in the Bronze age
 Economics in One Lesson: "The Curse of Machinery"
@@ -4906,7 +4893,7 @@ Embedded Figures Test confirms that stress hurts cognitive ability
 Embedding a Web Browser in Emacs
 Embezzle a bit more of your building's heat
 Embrace all your users, even the pirates arrgh
-Embrace your startup failure Ã¢â‚¬â€œ the faster you fail, the better
+Embrace your startup failure » the faster you fail, the better
 Embracing Lifetime Value
 Embracing Minimalism as a Web Designer
 Emerging IEEE Ethernet standards could soothe data center headaches
@@ -4987,7 +4974,7 @@ Erlang style programming in PLT Scheme
 Erlang, Yaws, and the deadly Tornado
 Erlang-like Hot Code Loading in Node.js
 Error messages are part of your UI
-Error-riddled Ã¢â‚¬ËœSuperfreakonomics', Part 2: With takedown of Nathan Myhrvold
+Error-riddled 'Superfreakonomics', Part 2: With takedown of Nathan Myhrvold
 Escalating Complexity and the Collapse of Elite Authority
 Escape Analysis in Java explained
 Escape From The Web - web-based terminal emulator (TornadoApp)
@@ -5011,13 +4998,13 @@ Etm:Store and create events, tasks, and actions with py
 Etm:Store and create events, tasks, and actions wity py
 Etsy turns a profit, founder back in as CEO
 Eureqa 
-Eureqa Ã¢â‚¬â€œ Software to Replace Scientists
+Eureqa » Software to Replace Scientists
 Euro MPs block bank data deal with US
 European Commission objects to Sun-Oracle deal  
 European Debt Worries: Why Greece Matters
 European OS market share: the rise of OSX
 European Union threatens to take iPhone off the market
-European startups need to work as hard as Valley ones Ã¢â‚¬â€œ or forget it
+European startups need to work as hard as Valley ones » or forget it
 European study: Even most sophisticated news readers can be manipulated
 Eval() Isn't Quite Pure Evil
 Evaluate Clojure in Google Wave
@@ -5156,7 +5143,7 @@ F--- Perl 6
 F. Scott Fitzgerald and living on $500,000 a year
 F.B.I. Concludes Investigation in Fatal Anthrax Mailings
 FAKEAV now spreading through search engine sponsored links
-FBI Says Ã¢â‚¬ËœMoney Mule' Scams Now Top $100 Million
+FBI Says 'Money Mule' Scams Now Top $100 Million
 FBI broke law for years in phone record searches
 FBI tracks suspects' cell phone without warrants
 FBI: Albert Einstein
@@ -5173,7 +5160,7 @@ FPGA Cluster Demonstrates Hardware-Accelerated DES Cracking [pdf]
 FPGA-based MapReduce Framework for Machine Learning [video]
 FSF offering "GNU Bucks" for finding nonfree works in free distributions
 FTC Sues Intel for Abuse of Monopoly Power
-FTC blogging guidelines: Ã¢â‚¬Ëœclearly and conspicuously' should be the focus
+FTC blogging guidelines: 'clearly and conspicuously' should be the focus
 FTC complaint over iPad marketing cites Flash on New York Times app
 FTC paves the way for Nvidia's x86
 FTC to bloggers: disclose freebies or face $11,000 fine
@@ -5200,7 +5187,7 @@ Facebook Fights Social Spam with Mark You Don't Know Response to Friend Requests
 Facebook Game "Despots" Founder Interview (looking for co-founders)
 Facebook Gives Harman His Name Back, Apologizes
 Facebook Hit With FTC Complaint
-Facebook Labs or Ã¢â‚¬Å“PrototypesÃ¢â‚¬Â to Launch Soon.
+Facebook Labs or “Prototypes“ to Launch Soon.
 Facebook Launches Zero, A Text-Only Mobile Site For Carriers
 Facebook Lite Launches
 Facebook Memorial Mode: I'm not dead yet
@@ -5208,7 +5195,7 @@ Facebook Mobile Hits 100 Million Users, Growing Faster Than On Desktops
 Facebook Offers Translation Tool to Other Sites
 Facebook Ordered To Turn Over Source Code due to "Patent Infrigement"
 Facebook Patents The Feed
-Facebook Pro Ã¢â‚¬â€œ Facebook's Revenue Stream
+Facebook Pro » Facebook's Revenue Stream
 Facebook Rings
 Facebook Sets Up Dual-Class Stock Structure
 Facebook Settings Every User Should Check
@@ -5250,7 +5237,7 @@ Facebook users unwittingly solve CATPCHAs, aid spread of Koobface
 Facebook uses people you know to get you to sign up
 Facebook will set indie gaming back 5 years
 Facebook | Home
-Facebook Ã¢â‚¬ËœCash Flow Positive,' Tops 300 Million Users
+Facebook 'Cash Flow Positive,' Tops 300 Million Users
 Facebook's Bunny1
 Facebook's HipHop-PHP is now on Github
 Facebook's Memcached Multiget Hole: More machines = More Capacity
@@ -5650,7 +5637,7 @@ FreeBSD 8.0 has been released - Linux Critic
 FreeBSD 8.0-RC3 released
 FreeBSD kernel stack overflow exploit development
 Freelancing an Art or Commodity?
-Freemium Founders: Start Charging for Things Today Ã¢â‚¬â€œ Tony Wright dot com
+Freemium Founders: Start Charging for Things Today » Tony Wright dot com
 Freemium Model for Lawyers
 Freemium: Can Spotify learn from Evernote?
 Freenode sucks
@@ -5716,7 +5703,7 @@ Functional Programming Archaeology
 Functional Programming Doesn't Work (and what to do about it)
 Functional Programming Fundamentals Lectures 
 Functional Programming at Facebook. (30 min video, CUFP talk.)
-Functional Programming with Python Ã¢â‚¬â€œ Part 1
+Functional Programming with Python » Part 1
 Functional Programming with a Mainstream Language
 Functional programming explained ... IRC-style
 Functional programming in C
@@ -5797,7 +5784,7 @@ Gates Foundation aims to facilitate banking to the poor
 Gates and Jobs look into the future of personal computing (2007)
 Gathering Signs of Privacy Winds 
 Gaussian Processes for Machine Learning (Free ebook)
-Gave up a day job Now what? Ã¢â‚¬â€œ Report number 0 Ã¢â‚¬â€œ Part 2
+Gave up a day job Now what? » Report number 0 » Part 2
 Gawker Media Has 400 Million Monthly Pageviews
 Gccgo language contribution accepted
 Gears API Blog: Hello HTML5
@@ -5809,7 +5796,7 @@ Geek's guide to hiring marketing people
 Geeking with Greg: Experiments and performance at Google and Microsoft
 Geeking with Greg: Using only experts for recommendations
 Geeks Try Google Wave, Have Mixed Feelings
-Geeks best in bed Ã¢â‚¬â€œ gym-goers most selfish
+Geeks best in bed » gym-goers most selfish
 Geeks trump alpha males as algorithms dominate Wall Street
 Geeks trump alpha males on Wall Street
 Geeky Math Equation Creates Beautiful 3-D World
@@ -5868,7 +5855,7 @@ Getting 60 thousand pageviews with 2 carefully constructed posts
 Getting Clojure and Slime installed [screencast]
 Getting Closer to Real Time With Hadoop
 Getting Computer Science Into Middle School
-Getting Geekier: The Evolution of Ã¢â‚¬Å“The Big Bang TheoryÃ¢â‚¬Â
+Getting Geekier: The Evolution of “The Big Bang Theory“
 Getting Hume Wrong
 Getting It: What Makes a Great Software Engineer
 Getting Receipts and Mail Off My Desk
@@ -5885,7 +5872,7 @@ Getting media coverage for your startup: making the pitch
 Getting rid of bad teachers
 Getting things done by procrastinating
 Getting to No
-Getting traction for your startup Ã¢â‚¬â€œ how we did it.
+Getting traction for your startup » how we did it.
 Giant Ribbon Discovered at the Edge of the Solar System
 Giant rats, tiny parrots found in 'lost world'
 Gift Cards and Employee Retail Theft
@@ -5918,7 +5905,7 @@ GitHub is moving to Rackspace
 GitHub's Architecture, before and after migration
 GitHub's Unicorn Setup
 GitHub: Ref Names in URLs
-Gitg Ã¢â‚¬â€œ git repository browser for GNOME
+Gitg » git repository browser for GNOME
 Github and Engineyard part ways
 Github down?
 Github has an apps platform   
@@ -6175,7 +6162,7 @@ Google Plans Its Own Android Phone
 Google Plans New Mirror For Cheaper Solar Power 
 Google Plans To Buy Its Way Into Real Estate
 Google Plans to Upgrade Old Billboards in Street View
-Google Pours Ã¢â‚¬Å“IncredibleÃ¢â‚¬Â Computing Power into Drug Discovery Via Startup Deal
+Google Pours “Incredible“ Computing Power into Drug Discovery Via Startup Deal
 Google PowerMeter gets API
 Google Public DNS
 Google Public DNS vs OpenDNS vs Your ISP's DNS: Find out which is fastest
@@ -6184,7 +6171,7 @@ Google Puts Lid on New Products (2006)
 Google Qualified Developer Directory
 Google Reader Watcher 
 Google Ready To Offer Navigation App For iPhone if Apple Agrees
-Google Redefines Disruption: The Ã¢â‚¬Å“Less Than FreeÃ¢â‚¬Â Business Model
+Google Redefines Disruption: The “Less Than Free“ Business Model
 Google Reduce Prices For Online Storage (20GB for $5/year, etc.)
 Google Releases A Nuke. Apple Won't Win This Fight.
 Google Releases API for Cool Visualization of Data Mashups from Many Sources
@@ -6405,7 +6392,7 @@ Google's porn problem and how to fix it
 Google's reasons for leaving China aren't as pure as they seem
 Google's response to AT&T
 Google's text to mp3 URL-based API
-Google's Ã¢â‚¬ËœMeaning of Open'
+Google's 'Meaning of Open'
 Google, Bing, and Startups Spar over the Future of Search
 Google, Bing, and the Future of Search
 Google, China, and Lawful Intercept
@@ -6572,7 +6559,7 @@ HN meetup in Chicago
 HN needs to post new stories on the front page to give them a chance
 HN review: thoughts on Blue Frog Gaming's new Twitter game?
 HN stops at 210, why 210?
-HN to Chrome OS: Ã¢â‚¬Å“you can't run SkypeÃ¢â‚¬Â
+HN to Chrome OS: “you can't run Skype“
 HN: Call for Hackers
 HN: Help me pick a logo
 HN: How can I contact Google?
@@ -6607,7 +6594,7 @@ HTML5 Theora Video Codec for Silverlight
 HTML5 is not about the death of Flash, but the return of browser innovation
 HTML5, H.264 and Free Software: it's the wrong game
 HTML5, meet 1998.
-HTPC Ã¢â‚¬â€œ Intel Atom Media Center Inside a CD Player [DIY]
+HTPC » Intel Atom Media Center Inside a CD Player [DIY]
 HTTP + Politics = ?
 HTTP Archive Specification: Firebug and HttpWatch
 HTTP Intermediary Layer From Google Could Dramatically Speed Up the Web
@@ -6648,10 +6635,10 @@ Hackers and Caffeine
 Hackers and Painters
 Hackers break Kindle DRM
 Hackers on happiness & tiny houses, plus The Story of Stuff
-Hackers Ã¢â‚¬Ëœrip off' Phishers
+Hackers 'rip off' Phishers
 Hackerspace raided in Sweden
 Hacking Language: A New Past Tense
-Hacking SWF Ã¢â‚¬â€œ Everything You Never Wanted To Know About Shapes In Flash
+Hacking SWF » Everything You Never Wanted To Know About Shapes In Flash
 Hacking Stephen Fry's Twitter Account
 Hacking The Magical Number Seven
 Hacking The NY Times Best Seller List
@@ -6668,7 +6655,7 @@ Hacking the Wii Motion Plus
 Hacking the Wii To Pieces
 Hacking the hacker: How a consultant shut down a malicious user
 Hacking with Style: TrueType VT220 Font
-Hackintoshed: Life With My Ã¢â‚¬Å“MacBook NanoÃ¢â‚¬Â 
+Hackintoshed: Life With My “MacBook Nano“ 
 Hadoop / MapReduce alternatives for parallel computing?
 Hadoop Is About Scalability, Not Performance
 Hadoop Training Videos
@@ -6684,7 +6671,7 @@ Haiku OS Alpha 1 released today (VMdisk available)
 Haiku Project Announces Availability of Haiku R1/Alpha 1
 Haiku: A Perfect Desktop Operating System?
 Hair Raiser
-Haiti Earthquake Survivor: Ã¢â‚¬Å“My iPhone Saved My LifeÃ¢â‚¬Â
+Haiti Earthquake Survivor: “My iPhone Saved My Life“
 Haiti Situation Tracking Form (provided by Google)
 Haiti earthquake victim Startup charity drive
 Haiti imagery layer now available for Google Earth
@@ -6830,7 +6817,7 @@ Heroku vs EngineYard Cloud vs Joyent
 Heroku | DJ has evolved into Workers
 Heroku: Announcing Huge Growth and New CEO
 Hewitt is Right, Ament is Wrong
-Hewitt's ghost frog Ã¢â‚¬â€œ latest news from the field
+Hewitt's ghost frog » latest news from the field
 Hewlett-Packard to Acquire 3Com for $2.7 Billion
 Hexbug Micro Robotic Creatures
 Hey HN, I hired 50 people today. This is what they look like
@@ -6908,7 +6895,7 @@ Homebrew device with iPhone aspirations (based on a 8 bit AVR microcontroller)
 Homebrew device with iPhone aspirations (based on an 8-bit AVR microcontroller)
 Homebrew is a new package management system for OS X based on git + ruby
 Homebrew: OS X's Missing Package Manager
-Homemade CPU Ã¢â‚¬â€œ from scratch
+Homemade CPU » from scratch
 Homepage A/B Testing Lessons from the Olympic Store 
 Homepage of Berkshire Hathaway, 17th biggest company in the world
 Honeypot analysis - Looking closer at SSH scans (user and passwords used)
@@ -6937,7 +6924,7 @@ How A Facebook Game Makes Zynga Millions
 How A Forum Site Grew Monthly Revenue From $400 to $400,000
 How A Freshman Built CollegeHumor Into A Profitable Cultural Phenomenon
 How A Great Product Can Be Bad News: Apple, iPad, and the Closed Mac
-How A Kid Earned $2m Before He Could Drink Ã¢â‚¬â€œ And The Shocking Way He Lost It
+How A Kid Earned $2m Before He Could Drink » And The Shocking Way He Lost It
 How A Kid Funded VoodooPC With His Credit Card And Sold It To HP
 How A Nerd Decides To Get The H1N1 Vaccine
 How A Quiet Developer Grew Goodreads To 2.6 Million Members
@@ -6973,7 +6960,7 @@ How Con Kolivas's BFS CPU scheduler works
 How Corrupted Language Moved from Campus to the Real World
 How Credit Card Numbers Are Generated 
 How Critics Reviewed The Mac 2.0 In 1984
-How Did Israel Become the Ã¢â‚¬Å“Start-Up NationÃ¢â‚¬Â?
+How Did Israel Become the “Start-Up Nation“?
 How Digg Found a Way to Make Money
 How Do California and Greece Compare?
 How Do You Evaluate a Data Center?
@@ -7249,7 +7236,7 @@ How is the Internet changing the way you think.
 How language fanboys see each other's languages
 How language fans see each other [pic]
 How long does it take to form a habit?
-How long should your Ã¢â‚¬Å“trialÃ¢â‚¬Â period run?
+How long should your “trial“ period run?
 How many Mexicans does it take to drill an oil well?
 How many frames can humans see
 How many hours do you spend trolling 4-chan per day/week on average?
@@ -7363,14 +7350,14 @@ How to Manufacture a Climate Consensus
 How to Monetize a Web Site: A Real World Tutorial
 How to Node: "Do" it fast
 How to Operate a Trade Show Booth
-How to Plan a Ã¢â‚¬Å“FreemiumÃ¢â‚¬Â Revenue Model
+How to Plan a “Freemium“ Revenue Model
 How to Pull Your Google Buzz with jQuery
 How to Read Other People's Code -- And Why
 How to Really Measure Software Teams
 How to Reclaim Your Attention
 How to Redis Ã¢â‚¬â€ Part #3 of the paperplanes.de Redis Saga
 How to Replace IMAP
-How to Respond to Criticism Ã¢â‚¬â€œ Learning from Dr. King
+How to Respond to Criticism » Learning from Dr. King
 How to Run a Meeting Like Google
 How to Save Apple from 1997
 How to Save Money During the Early Days of a Startup
@@ -7683,7 +7670,7 @@ I'm waiting again [for Apple to review my App]
 I've Changed My Mind
 I've implemented a new HTTP/1.1 request and response parser by hand
 I-Swarm Micro Robots are Up and Running
-I/o Ventures Ã¢â‚¬â€œ A Work/Cafe Incubator Launches In San Francisco
+I/o Ventures » A Work/Cafe Incubator Launches In San Francisco
 IBM 1401 50th anniversary
 IBM 2010: Customers in Revolt
 IBM Backs Open Source "Eye OS" for the 'Private Cloud'
@@ -7886,7 +7873,7 @@ Implementation of yesterday's xkcd comic
 Implementing A Scripting Engine
 Implementing STM on LispWorks
 Implementing Scheme in F#
-Implementing Startup Metrics for Pirates using Mixpanel Ã¢â‚¬â€œ Part 1: Features
+Implementing Startup Metrics for Pirates using Mixpanel » Part 1: Features
 Implementing a DHT in Go, part 1
 Implementing custom control structures in Scala
 Implementing reload in Google Chrome
@@ -7937,7 +7924,7 @@ In programming style, as in most things, moderation
 In re Bilski
 In the Event That You Have Accidentally Swallowed the Higgs Boson
 In tough times, cocaine dealers have to turn to cold-calling
-In which I stomp on some of our glorious Ã¢â‚¬Å“green shootsÃ¢â‚¬Â
+In which I stomp on some of our glorious “green shoots“
 In-App Purchases now available for free iPhone apps
 In-browser mini IDE and Programming Language
 In-text advertising that doesn't make you vomit
@@ -7994,7 +7981,7 @@ Injecting Arbitrary Python Into EVE Online
 Inner-platform effect
 Innovating Cron: Announcing Norc
 Innovation Can Unlock Job Growth - What Obama's job summit should do
-Innovation Open House @ HubSpot Ã¢â‚¬â€œ My Notes
+Innovation Open House @ HubSpot » My Notes
 Insanely deep fractal zoom
 Insanely great? Ars reacts to the Apple iPad
 Inside "MinWin": the Windows 7 kernel slims down
@@ -8204,7 +8191,7 @@ Is First-Mover Advantage a Myth? (with graphs)
 Is Free Will An Illusion?
 Is Functional Abstraction Too Clever?
 Is GPS technology actually harming our sense of direction?
-Is Google Charging You An Ã¢â‚¬Å“Idiot TaxÃ¢â‚¬Â?
+Is Google Charging You An “Idiot Tax“?
 Is Google Expanding in China? Not So FastÃ¢â‚¬Â¦
 Is Google Good for History?
 Is Google Referrer Spamming Too Now?
@@ -8289,7 +8276,7 @@ Is there such a thing as too much precision?
 Is this Windows 7 Launch Party ad for real?
 Is this the quality of the App Store?
 Is your new technology crappy enough?
-Is your product a Ã¢â‚¬Å“must haveÃ¢â‚¬Â or Ã¢â‚¬Å“nice to haveÃ¢â‚¬Â?
+Is your product a “must have“ or “nice to have“?
 Is your product an Ice Cream Glove or a Snuggie?
 Is your website easy to buy from? Tips to improve conversion
 Isaac Asimov - The Relativity of Wrong (1989)
@@ -8347,7 +8334,7 @@ Its like twitter. Except we charge people to use it.
 Its most powerful function is to facilitate tool creation
 Its really not that hard to grow location based apps
 J - A modern, high-level, general-purpose, high-performance programming language
-J is for JVM: Why the Ã¢â‚¬ËœJ' in JRuby?
+J is for JVM: Why the 'J' in JRuby?
 J.D. Salinger Dead at 91
 J.P. Morgan donating $5 million through facebook
 JDK7 to have escape analysis on by default...also back ported to JDK6
@@ -8427,7 +8414,7 @@ Japanese aesthetic principles to change your thinking
 Japanese researchers develop see-through goldfish
 Japanese whalers ram the Ady Gil (with video footage)
 Jaron Lanier says Internet has fallen short
-Jaron Lanier's Ã¢â‚¬ËœYou Are Not a Gadget'
+Jaron Lanier's 'You Are Not a Gadget'
 Jason Calacanis (possibly) spoils Apple tablet event. Major Details
 Jason Calacanis Knows He's Spamming Google, He Just Thinks It's No Big Deal
 Jason Calacanis Punches Comscore In The Face. Comscore Punches Back.
@@ -8522,7 +8509,7 @@ Job interview theory
 Jobless MBAs Seek Solace in Support Groups
 Jobnob Ivy Plus Happy Hour:connecting jobseekers with startups 11/12
 Jobs by Dustin Curtis
-Jobs to The Little App Factory: Name change Ã¢â‚¬Å“Not that big of a dealÃ¢â‚¬Â 
+Jobs to The Little App Factory: Name change “Not that big of a deal“ 
 Jobs, Bezos named to list of best-performing CEOs
 Jobs: Flash would murder the iPad. Really now, let's be realistic
 Jobvite Secures $8.25 Million in Series B Funding
@@ -8548,7 +8535,7 @@ John Carmack's dev notes on Doom Classic for iPhone
 John Cleese divorce tour: the first review
 John Deere and iPhones
 John Gruber (of Markdown) responds to Atwood's criticism
-John Gruber on the Ã¢â‚¬Å“Auteur Theory of DesignÃ¢â‚¬Â from Macworld 2009
+John Gruber on the “Auteur Theory of Design“ from Macworld 2009
 John Hughes Contrasts Erlang and Haskell
 John Koza Has Built an Invention Machine
 John Mackey and Whole Foods
@@ -8569,11 +8556,11 @@ Jonah Lehrer: Social Determinism - What you do affects your social network
 Jonah Lehrer: The Limits of Self-Knowledge
 Jonah Lehrer: The Personality Paradox
 Jonathan Schwartz Blog
-JooJoo Tablet Misses Promised Delivery Date, Company Delivers A Ã¢â‚¬Å“No CommentÃ¢â‚¬Â
+JooJoo Tablet Misses Promised Delivery Date, Company Delivers A “No Comment“
 JooJoo tablet website updated, opens "pre-orders"
 JooJoo will be manufactured by Malaysia's CSL Group
 Joojoo tablet now in production, will support full Flash at launch
-Joost Is Now Officially Dead Ã¢â‚¬â€œ Assets Acquired By Adconion Media Group
+Joost Is Now Officially Dead » Assets Acquired By Adconion Media Group
 Journey in Android Development, Android Market - the good, the bad
 Joyent Secures Funding From Intel Capital
 Jquery Basics Series 
@@ -8777,7 +8764,7 @@ Launch: 37signals Answers
 LauncherOne: Virgin Galactic's other project
 Launching Brands in Public
 Launching a start-up and having a family life: It's possible 
-Launching with the Ã¢â‚¬Å“minimum viable productÃ¢â‚¬Â
+Launching with the “minimum viable product“
 Lawdiscuss.com - Stack Exchange site for legal advice
 Lawmakers Voice Support for NASA Moon Program
 Lawnchair: Client Side JSON Document Store
@@ -9189,7 +9176,7 @@ MIT develops algorithms to "solve" non-linear systems as sum of squares
 MIT gestural computing makes multitouch look old hat
 MIT postdoc writes 3 books, a PhD, 6+ peer-reviewed papers, finishes by 5:30pm
 MIT researchers help ease programmers' transition to parallel programming
-MIT researchers think Americas obesity epidemic can be reversed via Ã¢â‚¬Ëœfoodsheds'
+MIT researchers think Americas obesity epidemic can be reversed via 'foodsheds'
 MIT shortens application essays
 MIT students try to change the world with cellphones
 MIT team wins International Aerial Robotics Competition
@@ -9298,7 +9285,7 @@ Making Flash Apps More Sharable: Adobe Launches Services for Distribution
 Making Interactive Maps With jQuery
 Making Linux more Real-time
 Making OLED Displays Cheaper
-Making Of Ã¢â‚¬ËœGratuitous Space Battles'
+Making Of 'Gratuitous Space Battles'
 Making Prodigy's "Smack My Bitch Up" in Ableton by Jim Pavloff
 Making Ruby a Bazzar Project
 Making Undergrad CS More Enticing at Stanford
@@ -9379,11 +9366,11 @@ Mark Pilgrim on Microgaming: Ribbon Hero is the future
 Mark Pilgrim on The Setup
 Mark Pilgrim: how to root Nexus One
 Mark Pincus on Metrics
-Mark Suster: Entrepreneurs Don't Ã¢â‚¬Å“NoodleÃ¢â‚¬Â They Do
+Mark Suster: Entrepreneurs Don't “Noodle“ They Do
 Mark Suster: The Best Entrepreneurs Are Hyper Competitive & Hate Losing
 Mark Suster: The Entrepreneur Thesis
-Mark Suster: What Makes an Entrepreneur (2/10) Ã¢â‚¬â€œ Street Smarts
-Mark Suster: What Makes an Entrepreneur (3/11) Ã¢â‚¬â€œ Ability to Pivot
+Mark Suster: What Makes an Entrepreneur (2/10) » Street Smarts
+Mark Suster: What Makes an Entrepreneur (3/11) » Ability to Pivot
 Mark Twain on Risk Analysis
 Mark Zuckerberg: The evolution of a remarkable CEO
 Mark the Spot: Tell AT&T
@@ -9414,7 +9401,7 @@ Massmodz.com founder arrested by FBI
 Master Ruby Metaprogramming
 Mastering Tools and Improving Process
 Matasanos A C++ Challenge - TheÃ‚Â Conclusion
-Match regexp in python Ã¢â‚¬â€œ I'm building logsplitter
+Match regexp in python » I'm building logsplitter
 Matching Teaching Style to Learning Style May Not Help Students
 Math Every Day 
 Math Overflow (A StackExchange site for Maths)
@@ -9461,7 +9448,7 @@ McGraw-Hill CEO Confirms Apple Tablet Is Coming Tomorrow
 McGraw-Hill CEO Confirms Apple Tablet, iPhone OS Based, Going to Be "Terrific"
 McGraw-Hill CEO: "The tablet is going to be just really terrific"
 McGraw-Hill axed from iPad launch after CEO leaks on TV
-McIntyre: The deleted data from the Ã¢â‚¬Å“Hide the DeclineÃ¢â‚¬Â trick
+McIntyre: The deleted data from the “Hide the Decline“ trick
 McLaren's new car
 McLexer and McHighlight: Lexical analyzers and syntax highlighting in JavaScript
 McPixel, a frivolous lisp hack.
@@ -9469,7 +9456,7 @@ Mckoi: highly scalable b-tree database
 Mcollective: A parallel execution framework that's not a fancy SSH "for loop"
 Measure what is relevant: A critical look at bounce rates
 Measuring
-Measuring Online Applications Ã¢â‚¬â€œ Structuring a Measurement Interface
+Measuring Online Applications » Structuring a Measurement Interface
 Measuring Social Media Value: Traffic Quality - Twitter vs Google
 Measuring clout (the people who spread ideas) on the web
 Measuring the speed of light with chocolate and a microwave oven
@@ -9644,7 +9631,7 @@ Microsoft: "Android is free like a puppy"
 Microsoft: Dropping Linux, Unix enterprise search will "accelerate innovation"
 Microsoft: Google Chrome Frame makes IE less secure
 Microsoft: Here's why Google Apps suck
-Microsoft: iPad's Closed Platform is Ã¢â‚¬Å“HumorousÃ¢â‚¬Â
+Microsoft: iPad's Closed Platform is “Humorous“
 Microsofts dual screen tablet PC
 Middle school evacuated because of a science project
 Middle school evacuated because of a science project: wires and boards are scary
@@ -9690,7 +9677,7 @@ Minnesota's frozen turbines raise new doubts about wind power
 Minority Students Needed in Math and Science to Fight 'Brain Drain'
 Mint founder on Silicon Valley
 Mint saved money by using Clicktale and CrazyEgg
-Mint's Aaron Patzer: Ã¢â‚¬Å“We Will End-Of-Life Quicken OnlineÃ¢â‚¬Â In Six to Nine Months
+Mint's Aaron Patzer: “We Will End-Of-Life Quicken Online“ In Six to Nine Months
 Mint.com Founder Happy To Sell To Intuit, VC Conspiracy Wrong
 Mint.com Founder: Heck No, My VCs Didn't Force Me To Sell To Intuit
 Mint.com pitch
@@ -9858,7 +9845,7 @@ Mouse Cursor Affordance
 Move Your Money to Community Banks
 Move to Applications Folder? Dev on how he simplified Mac app installation
 Move to NYC. Hack on cool stuff. Enjoy startup life
-Movement Mechanics in Ã¢â‚¬Å“The Legend of ZeldaÃ¢â‚¬Â
+Movement Mechanics in “The Legend of Zelda“
 Movie Studios See a Threat in Growth of Redbox
 Movie Tells of Birth of Silicon Valley
 Movie adds to the legend of autistic professor
@@ -9898,7 +9885,7 @@ Music in Pubs: Introspections on what annoys customers.
 Music publishers: iTunes not paying fair share
 Musician makes 26.3% of his net income from just 40 hard- core fans
 Musicians, Brands, Endorsements, and Partnerships (Part 2)
-Musings from anonymous Microsoft developers on Reddit Ã¢â‚¬Å“Ask Me AnythingÃ¢â‚¬Â
+Musings from anonymous Microsoft developers on Reddit “Ask Me Anything“
 Must-Have Windows Programs (or Windows Programs that I use)
 Mutability, Arrays and the Cost of Temporary Objects in Java
 Mutation accumulation in modern humans
@@ -9973,7 +9960,7 @@ MySpace Close To Acquiring iMeem
 MySpace accepting submissions for app contest
 MySpace new stream feature
 MySpace replaces all server hard disks with flash drives
-MySpace's Hail Mary Strategy: Ã¢â‚¬Å“DiscoveryÃ¢â‚¬Â
+MySpace's Hail Mary Strategy: “Discovery“
 MySpace, R.I.P.
 MySpace/Imeem Deal Leaves Thousands of Artists Unpaid
 Myriad brings 3x Faster Applications With New VM To Android
@@ -10236,7 +10223,7 @@ New subreddit for open APIs and datasets
 New web apps are like new words: widespread adoption is difficult
 New wheel for your bicycle: The Copenhagen wheel
 New years resolutions
-New Ã¢â‚¬ËœArrington 2.0Ã¢â‚¬Â² to Debut at CES
+New 'Arrington 2.0Ã¢â‚¬Â² to Debut at CES
 NewServers: Bare Metal Cloud
 Newbie Fashion Tips for Grown-up Men
 Newegg's IPO reveals the numbers behind A $2B Electronics Retailer
@@ -10245,7 +10232,7 @@ Newly Released Aerial Photos of World Trade Center on 9/11
 Newly revealed Apple patent application looks suspiciously tablet-like
 News Corp to Offer Plaid Stamps
 News gets worse for the mainstream media
-NewsCred Relaunches, Looks To Become Ã¢â‚¬Å“Ning For NewspapersÃ¢â‚¬Â
+NewsCred Relaunches, Looks To Become “Ning For Newspapers“
 Newspapers: 30% print revenue decline
 Newsweek on the cooling world
 Newsy: The News Is Broken, But We Can Fix It
@@ -10309,7 +10296,7 @@ No Balloon? Point, Click, Get on TV
 No Comment
 No Free Lunch Theorems
 No Hope for the Verizon iPhone
-No Humans, Just Robots Ã¢â‚¬â€œ Amazing Videos of the Modern Factory
+No Humans, Just Robots » Amazing Videos of the Modern Factory
 No Kindle for Canada
 No Mars Ã¢â‚¬â€ or Anywhere Else Ã¢â‚¬â€ Without More Money
 No More Religion, More Tactics for Civilization V
@@ -10354,7 +10341,7 @@ NoSQL with MySQL in Ruby - Friendly
 NoSQL: Distributed and Scalable Non-Relational Database Systems
 NoSQLIndia is online on September 26th
 NoSlow: Microbenchmarks for Haskell array libraries
-NoSql Databases Ã¢â‚¬â€œ Part 1 - Landscape
+NoSql Databases » Part 1 - Landscape
 Nobel Prize in Economic Sciences (2009)
 Nobel stunner: Obama wins Peace Prize
 Nobody Hates Software More Than Software Developers
@@ -10993,7 +10980,7 @@ Paypal is evil
 Paypal resumes local bank transfers to India
 Paywalls crumble with Google Buzz
 Peace.facebook.com
-Pedantry isn't boring Ã¢â‚¬â€œ it's essential
+Pedantry isn't boring » it's essential
 Peek - Simply Connected. 
 Peer-to-Peer, Personal web platform Tonido SDK released under Apache 2.0 license
 Peering Disputes Migrate to IPv6
@@ -11016,7 +11003,7 @@ Perception trumps knowledge: optical illusion
 Percolating Nones in Scala
 Perfect advanced programming language for the productive industrial developer
 Perfect example of real-life hacking
-Perfection By Subtraction Ã¢â‚¬â€œ The Minimum Feature Set
+Perfection By Subtraction » The Minimum Feature Set
 Performable - 5 Tips to Becoming a More Customer Centric Organization
 Performance / Price for CPUs
 Performance Tuning for Phusion Passenger (an Introduction)
@@ -11208,7 +11195,7 @@ Pointer-events for HTML in Firefox 3.6
 Points For Toothbrushing: The Gaming Speech Everyone Is Talking About
 Poison and Progress 
 Polaris Opens Dog Patch Labs in Cambridge
-Polaris Ventures Opens 2nd Ã¢â‚¬Å“Frat House For Geeks"- Dog Patch Labs
+Polaris Ventures Opens 2nd “Frat House For Geeks"- Dog Patch Labs
 Polaris launching Dogpatch Labs free startup space in New York
 Polaroid cameras to be produced once again
 Police Pursue and Capture a Barefoot Runner
@@ -11396,7 +11383,7 @@ Programmer search engine
 Programmer who worked for Bernard Madoff is arrested by FBI
 Programmers Need To Learn Statistics Or I Will Kill Them All
 Programmers Should Invest
-Programmers and Ã¢â‚¬Å“productivityÃ¢â‚¬Â
+Programmers and “productivity“
 Programmers becoming "starving artists"
 Programmers should know math.. just not all of it
 Programming Contest: Win a Motorola Droid and $1k in Cloud Credit
@@ -11431,7 +11418,7 @@ Project Lambda: Straw-Man Proposal
 Project Oberon: The Design of an Operating System and a Compiler
 Project Oberon: The Design of an Operating System and a Compiler (pdf)
 Project Stack Push/Pop
-Project Ã¢â‚¬ËœGaydar': An MIT experiment raises new questions about online privacy
+Project 'Gaydar': An MIT experiment raises new questions about online privacy
 Prominent Chinese crystallographer faked data for years.
 Promoting books with free copies: On Kindle, Best Sellers Don't Need to Sell
 Promoting your iPhone app in print
@@ -11444,7 +11431,7 @@ Property rights and Net Neutrality
 Proposal for Ephemerons in Scheme
 Proposal: Hack Free CSS with the @unsupported Directive
 Proposals for Librelist Moderation Strategies
-Proposed autism diagnosis angers Ã¢â‚¬ËœAspies'
+Proposed autism diagnosis angers 'Aspies'
 Proposed online sales tax draws criticism
 Proposed simple REST (and OAuth) based standard for financial transactions
 Pros and Cons about Python 3
@@ -11455,7 +11442,7 @@ Protecting your email with 'AT domain DOT com' is making it easier to find
 Prototyping, Mockup, and Wireframing Tools for iPhone App Development
 Providing a high quality education to anyone, anywhere.
 Proving a Computer Program's Correctness
-Proxy Ã¢â‚¬â€œ gen-class little brother
+Proxy » gen-class little brother
 Psychologists find a drug-free way for fears to be unlearned
 Psystar Steals Open Source Bootloader and Sells it for $50
 Psystar releases the software they use to install MacOS on non-Apple hardware
@@ -11543,7 +11530,7 @@ QNX Ignores Desktop Standards, Security
 QT4 ported to Haiku - developer preview available
 Qb.js: An implementation of QBASIC in Javascript (part 1)
 Qik: A Third-Rate Startup
-Qizmt Ã¢â‚¬â€œ MapReduce On Windows
+Qizmt » MapReduce On Windows
 Qt - A cross-platform application and UI framework 
 Quake 1 ported to Flash
 Qualcomm CEO Sees Company Driving Wave of Mobile Internet Innovation
@@ -11640,7 +11627,7 @@ Rails Idioms + Django Templates + Erlang Power = Chicago Boss
 Rails Magazine Issue #5
 Rails Plugins and Gems
 Rails Rumble: Micro-App Competition Winners Announced - ReadWriteStart
-Rails SWFUpload Ã¢â‚¬â€œ Rack Middleware for Flash Uploads that Degrade Gracefully
+Rails SWFUpload » Rack Middleware for Flash Uploads that Degrade Gracefully
 Rails and Merb Merge Update: Rails Core
 Rails and Merb Merge: ORM Agnosticism (5 of 6)
 Rails and Merb Merge: Performance
@@ -11700,7 +11687,7 @@ RateMySite: [coffee][talk] San Francisco only right now
 Rationing, errors and mammogram math 
 Ratproxy - semi-automated, largely passive web application security audit tool
 Ravelry - a very successful deployment of Ruby and Rails
-Raw climate data in New Zealand tells a different story than Ã¢â‚¬Å“officialÃ¢â‚¬Â one.
+Raw climate data in New Zealand tells a different story than “official“ one.
 Ray Kurzweil - Immortality Only 20 Years Away
 Ray Kurzweil Responds to the Issue of Accuracy of His Predictions
 Ray Kurzweil predicts how technology will change humanity by 2020
@@ -11906,7 +11893,7 @@ Report : PS3 finally been comprimised?
 Report a Deceased Person's Profile on Facebook
 Report says IBM is switching from Microsoft Office to Lotus Symphony
 Report suggests 21 hours is the ideal work week
-Report: Comcast Buying NBC for $35 Billion. Comcast: Ã¢â‚¬Å“InaccurateÃ¢â‚¬Â 
+Report: Comcast Buying NBC for $35 Billion. Comcast: “Inaccurate“ 
 Report: EC2 Running 40,000 Servers
 Report: Mossad hacked Syrian computer to uncover nuke site - Haaretz
 Report: Use student performance to rate teachers
@@ -11974,7 +11961,7 @@ Revenue & Expenses 2 Years After Starting My Web Business: UniversityTutor.com
 Revenue reality of a book on the New York Times best-seller list 
 Revere Security Appoints Whitfield Diffie as Chief Cryptographer
 Reverse Execution in GDB 7 is imminent
-Reverse Proxy Performance Ã¢â‚¬â€œ Varnish vs. Squid (Part 2) 
+Reverse Proxy Performance » Varnish vs. Squid (Part 2) 
 Reverse job fair Jan 16th: Job seekers have tables, recruiters walk around.
 Reverse-engineering a smart meter
 Reversed Stupidity Is Not Intelligence
@@ -12130,7 +12117,7 @@ Ruled Ineligible: My Experience with NYC BigApps
 Rules That Warren Buffett Lives By
 Rules for Working From Home
 Rules for growing your blog
-Ruling Expected on Twittering Anarchist Raided Under Ã¢â‚¬ËœRioting' Laws
+Ruling Expected on Twittering Anarchist Raided Under 'Rioting' Laws
 Ruling for Apple against Psystar means clone-makers have no legal recourse
 Rumor: Apple To Switch On Sleeping FM Radio in iPhone, iPod Touch
 Rumours that first dark matter particle found
@@ -12259,7 +12246,7 @@ Saying "NO"
 Saying "NO".
 Saying You Can't Compete With Free Is Saying You Can't Compete Period
 Scala 2.8.0 Beta 1 released
-Scala Vs Clojure Ã¢â‚¬â€œ Let's get down to business
+Scala Vs Clojure » Let's get down to business
 Scala for Haskell programmers
 Scala vs. Clojure: Concurrency
 Scala: A Postfunctional Language
@@ -12464,7 +12451,7 @@ Seedcamp: thoughts on the evolution of a European startup
 Seeing a Twitter #Hashtag Spread
 Seeing points again?
 Seeking Co-Founder for BigTweet and Social.com
-Seeking a Symbol for Ã¢â‚¬ËœThis Ad Knows About You'
+Seeking a Symbol for 'This Ad Knows About You'
 Segmentation of the Top 100 Sites in the US
 Segway Acquired By UK-Based Firm, CEO Out
 Segway Made from Lego Robot Kit Using Light Sensor For Balance
@@ -12494,7 +12481,7 @@ Senate blocks transparency, refuses to put bills online
 Senator Demands IP Treaty Details
 Senators Kerry & Lugar Introduce the Startup Visa Act
 Send Mail using SMTP and PHP.
-Send a $10 Donation by Texting Ã¢â‚¬ËœHaiti' to 90999
+Send a $10 Donation by Texting 'Haiti' to 90999
 Send only @replies to your phone (my new side project)
 Send packages via social networks (without disclosing recipient address)
 Send the ISS to Mars
@@ -12541,7 +12528,7 @@ Setting up OS X as a scientific programming environment
 Setting up continuous podcast play on iTunes
 Setting up django and Amazon's new MySQL service
 Setting up your Git repositories for open source projects at GitHub 
-Settlement Rejected In Ã¢â‚¬ËœShocking' RIAA File Sharing Verdict
+Settlement Rejected In 'Shocking' RIAA File Sharing Verdict
 Setup Ruby Enterprise Edition, nginx and Passenger (aka mod_rails) on Ubuntu
 Seven Bridges of KÃƒÂ¶nigsberg
 Seven Computer Science Game-Changers from the 2000's, and Seven More to Come 
@@ -12736,7 +12723,7 @@ Site Leaks Microsoft Online Surveillance Guide, MS Demands Takedown Under DMCA
 Site Reliability Engineering at Facebook
 Sites That Will Matter in 2010 (including Postabon and Justin.tv)
 Six Apart Opens Up TypePad APIs, Relaunches Pownce As TypePad Motion
-Six Lessons Learned from Launching Ã¢â‚¬â€œ and Closing Ã¢â‚¬â€œ a Community
+Six Lessons Learned from Launching » and Closing » a Community
 Six Months of Pinboard
 Six Thinking Hats
 Six Tips for a Killer FAQ Page
@@ -12917,18 +12904,18 @@ Some questions about HTML 5 video
 Some real data about JavaScript size on web pages
 Some search engines besides Google
 Some surprising quotes from Rasmus Lerdorf (php creator)
-Some thoughts on the Ã¢â‚¬Å“geo stackÃ¢â‚¬Â
+Some thoughts on the “geo stack“
 Someone Made A Flexpicker Industrial Robot Out of Legos
-Someone Stole My Startup Idea Ã¢â‚¬â€œ Part 1: Are Those My Initials?
-Someone Stole My Startup Idea Ã¢â‚¬â€œ Part 2: They Raised Money With My Slides?
+Someone Stole My Startup Idea » Part 1: Are Those My Initials?
+Someone Stole My Startup Idea » Part 2: They Raised Money With My Slides?
 Someone actually created a pyramid scheme for Twitter popularity.
 Someone we should all admire. Hint - it's not Larry Ellison
 Someone who is like Data in real life
 Something From Nothing - Automating Shopify and Income
 Something simple I wish I learned 17 years ago
-Sometime the conversation does need some rules Ã¢â‚¬â€œ and respect
+Sometime the conversation does need some rules » and respect
 Sometimes [FreeBSD] ports make me cry
-Sometimes the conversation does need some rules Ã¢â‚¬â€œ and respect
+Sometimes the conversation does need some rules » and respect
 Son-of-a-bitch, it worked. My first step down the customer development pathÃ¢â‚¬Â¦
 SonSpring | jQuery Desktop
 Songkick (YC 07) lays its claim on the music events crown
@@ -12982,7 +12969,7 @@ Sparklines in OpenOffice.org Calc
 Spawning a Thread, the D way
 Speak Human
 Speaker's Tip: Don't tell the audience you aren't prepared
-Special Interests Get Peek at Ã¢â‚¬ËœClassified' Copyright Treaty
+Special Interests Get Peek at 'Classified' Copyright Treaty
 Specifying Systems [book]
 Speculation: Intel Will Buy nVIDIA
 Speech-To-Speech Translator iPhone App
@@ -13208,7 +13195,7 @@ Stephen Wolfram on Bing Deal, Software Strategy & Future of Knowledge Computing
 Steps Towards an Acceptable Lisp
 Steps to be taken to incorporate a new company in India
 Steve @ Apple keynote--iTunes 9, new iPods (w/vid camera!), 50M iPhone + iPods
-Steve Ballmer On Ã¢â‚¬Å“Moving The NeedleÃ¢â‚¬Â 
+Steve Ballmer On “Moving The Needle“ 
 Steve Ballmer Talks Strategy, Ushers Microsoft into the Cloud Era
 Steve Ballmer signs a MacBook Pro.. on Video
 Steve Ballmer: Chrome And Safari Are Rounding Errors 
@@ -13218,14 +13205,14 @@ Steve Blank: Ardent 1 - Supercomputers Get Personal
 Steve Blank: Balloon Wars
 Steve Blank: Can You Trust Any VC's Under 40?
 Steve Blank: I've seen the Promised Land. And I might not get there with you.
-Steve Blank: Relentless Ã¢â‚¬â€œ The Difference Between Motion And Action
-Steve Blank: The Elves Leave Middle Earth Ã¢â‚¬â€œ Soda's Are No Longer Free
+Steve Blank: Relentless » The Difference Between Motion And Action
+Steve Blank: The Elves Leave Middle Earth » Soda's Are No Longer Free
 Steve Blank: The Secret History: Lockheed-the Startup with Nuclear Missiles
 Steve Jobs & Salvador Dali Are Pretty Similar
 Steve Jobs @ Apple keynote--iTunes 9, new cheaper iPods, 50M iPhone + iPods
 Steve Jobs Is Building AppleWorld - And Google's Running Scared
 Steve Jobs Named World's Best-Performing CEO
-Steve Jobs Named Ã¢â‚¬ËœCEO of the Decade'
+Steve Jobs Named 'CEO of the Decade'
 Steve Jobs Will Save Print Media
 Steve Jobs and the Economics of Elitism
 Steve Jobs calls Google's "Don't be evil" mantra "Bullshit" and Adobe "Lazy"
@@ -13467,8 +13454,8 @@ TPUTH Ã¢â‚¬â€ Socially Generated Newspaper for Geeks
 TSA Logo Contest
 TSA Making Flying More Miserable
 TSA Pays Blogger to Mock People Harassed by TSA
-TSA Response to XKCD Ã¢â‚¬Å“Bag CheckÃ¢â‚¬Â Cartoon
-TSA Security Directive SD-1544Ã¢â‚¬â€œ09-06
+TSA Response to XKCD “Bag Check“ Cartoon
+TSA Security Directive SD-1544»09-06
 TSA Threatens Blogger Who Posted New Screening Directive
 TSA Withdraws Subpoenas Against Bloggers
 TSA apologizes for forcing 4-year-old to remove leg braces at airport screening
@@ -13557,7 +13544,7 @@ TechCrunch List Of Top Tech Products 2009
 TechCrunch hates CES
 TechCrunch hates the Crunchies (and CES) (TC says NSFW
 TechCrunch's Unhealthy Obsession with Daniel Brusilovsky
-TechCrunch50 founders' feud: Ã¢â‚¬Å“It's overÃ¢â‚¬Â for the startup conference
+TechCrunch50 founders' feud: “It's over“ for the startup conference
 TechMeetup alongside Startup School
 TechShop: A Xerox PARC for the rest of us
 TechStars Boston Moves to Spring, Apps Open Now
@@ -13748,7 +13735,7 @@ Tetuan Valley's Startup School dates and enrollment form
 Teux Deux: slickly designed little to-do app
 Tex Source Code
 Text Laundering - Confuse Duplicate Text Detectors
-Text Messages in China to Be Scanned for Ã¢â‚¬ËœIllegal Content' 
+Text Messages in China to Be Scanned for 'Illegal Content' 
 Text of Steve Jobs' Commencement address (2005)
 Text, Bytes and Videotape 
 TextMate Blog Ã‚Â» Why 2.0 is not Developed in the Open
@@ -13874,7 +13861,7 @@ The BEST Industries for Starting a Business RIGHT NOW
 The Barometer of Hacker News Knowledge Half-life
 The Basecamp outage / slowdown today
 The Beautfy of Latex
-The Best C++ Interview Question Ã¢â‚¬â€œ Ever
+The Best C++ Interview Question » Ever
 The Best Deal In Startup Land
 The Best Hiring Tip
 The Best Hiring Tip Ever
@@ -13890,7 +13877,7 @@ The Best-Selling Record of All
 The Big Lie About Twitter
 The Big Zero
 The Biggest Star
-The Biography Of Wordpress Ã¢â‚¬â€œ With Matt Mullenweg 
+The Biography Of Wordpress » With Matt Mullenweg 
 The Bipolar Lisp Programmer (an oldie but a goodie)
 The Birth of Obvious Corp.
 The Birth of the Industrial Haskell Group
@@ -13903,7 +13890,7 @@ The Bobby Tables guide to SQL injection
 The Book That Contains All Books
 The Boss - First, $99. Then, Millions. 
 The Boxee Remote
-The Brickyard Ã¢â‚¬â€œ Great Ideas Can WinÃ¢â‚¬Â¦ Even in Shitty Markets
+The Brickyard » Great Ideas Can WinÃ¢â‚¬Â¦ Even in Shitty Markets
 The Briefcase Technique -- to earn tens of thousands of dollars in interviews
 The Briggs-Rauscher Oscillating Reaction (video)
 The Browser Wars - Visualized as Tree Rings
@@ -13934,7 +13921,7 @@ The Catch-22 for Freelance Workers Trying to Buy Homes
 The Categories of Risk in the VC Brain
 The Chapter In The Bible That Appears Twice
 The Children of Cyberspace: Old Fogies by Their 20's
-The Chinese Internet: Why the Ã¢â‚¬Å“Copy CatsÃ¢â‚¬Â Win
+The Chinese Internet: Why the “Copy Cats“ Win
 The Chinese Perspective of Avatar
 The Chinese Room Argument
 The Chocolate Scientists
@@ -14036,7 +14023,7 @@ The Electronic Parts Nebula
 The Elements - A Perfect Coffee Table Book for Nerds
 The Elements of Programming Style: "say what you mean, simply and directly"
 The Elephant is Not its Trunk: Stop fooling yourself about marketing
-The Elves Leave Middle Earth Ã¢â‚¬â€œ Sodas Are No Longer Free
+The Elves Leave Middle Earth » Sodas Are No Longer Free
 The Emergence of VC/Angel Syndicates
 The End Of The CrunchPad 
 The End of America's HIV Ban
@@ -14074,7 +14061,7 @@ The Firefox "Places" frecency algorithm
 The First Jobs of 10 Wealthy Entrepreneurs
 The First Universal Quantum Processor
 The First YC Conference
-The First Year Of Blogging Ã¢â‚¬â€œ Promotion
+The First Year Of Blogging » Promotion
 The First rocky planet outside our solar system confirmed
 The Five-Minute Rule 20 Years Later
 The Flat Enterprise Society
@@ -14099,7 +14086,7 @@ The Future of Mobile Browsers
 The Future of Sensor Networks
 The Future of Social 
 The Future of Social Games
-The Future of Web Content Ã¢â‚¬â€œ HTML5, Flash & Mobile Apps
+The Future of Web Content » HTML5, Flash & Mobile Apps
 The Gambler Who Blew $127 Million
 The Game of Life on GPU using F#
 The Gaming Police
@@ -14251,13 +14238,13 @@ The Making of Airbnb [YC W09]
 The Making of Prince of Persia
 The Making of ReoCities, 600K accounts recovered already and counting
 The Making of The Beatles: Rock Band
-The Man Who Defused the Ã¢â‚¬ËœPopulation Bomb'
+The Man Who Defused the 'Population Bomb'
 The Man Who Found Quarks and Made Sense of the Universe (Interview w/ Gell-Mann)
 The Man Who Looked Into Facebook's Soul
 The Man Who's Beating Google
 The Many Facets of Natural Computing
 The Mariana Trench To Scale
-The Marshmallow Test Ã¢â‚¬â€œ They Got It All Wrong
+The Marshmallow Test » They Got It All Wrong
 The Master, The Expert, The Programmer
 The Mathematical Cartoons of Larry Gonick
 The Mathematics Behind Stopping a Car
@@ -14473,7 +14460,7 @@ The Rise of Behavior Generated Content
 The Rise of DevOps
 The Rise of SYDNI or YAGNI is Only About Problems, not Solutions
 The Rise of the Professional Blogger
-The Rise of Ã¢â‚¬Å“Risk CapitalÃ¢â‚¬Â 
+The Rise of “Risk Capital“ 
 The Roots of Lisp
 The Ruby Draft Specification
 The Ruby Revolution is Over
@@ -14526,7 +14513,7 @@ The Start Project: Return Of The Incubator?
 The Start-up Survival Kit
 The Startup Death Spiral
 The Startup Pivot: How Moo Got It Right & Became Profitable
-The Startup Story Ã¢â‚¬â€œ From an Idea to Our First Customer in 7 Days
+The Startup Story » From an Idea to Our First Customer in 7 Days
 The Startup Visa and Why The Xenophobes are Wrong
 The Startup Visa bill _as it stands_ is a bupkis!
 The State of User Tracking and the Impossibility of Anonymizing Data
@@ -14552,7 +14539,7 @@ The Sure Thing: How Entrepreneurs Really Succeed
 The Surprising Physics of Pipe Organs
 The Surprising Story of Simplenote (with sales data)
 The Swedish and git pull, or 'I fingered myself 5 min. ago'
-The TC Ã¢â‚¬Å“BumpÃ¢â‚¬Â, What It Really Means & How To Navigate It.
+The TC “Bump“, What It Really Means & How To Navigate It.
 The Tale of the Teleporting Turtle (algorithm)
 The Tao of Programming
 The Techcrunch intern who sold posts is Daniel Brusilovsky
@@ -14700,7 +14687,7 @@ The criticism that Ralph Lauren doesn't want you to see
 The cult of the faceless boss
 The cupcake bubble
 The curious pricing of the 27" iMac
-The curious pricing of the 27Ã¢â‚¬Â iMac
+The curious pricing of the 27“ iMac
 The danger of releasing too early
 The dark side of Dubai
 The dark side of NoSQL
@@ -14765,7 +14752,7 @@ The greatest human being who ever lived has died
 The greatest program ever written
 The growth of the state: Leviathan stirs again
 The gunfighter's dilemma
-The harm of Ã¢â‚¬Å“non-commercialÃ¢â‚¬Â
+The harm of “non-commercial“
 The health-care bill has no master plan for curbing costs. Is this a bad thing?
 The hell of Apple video connectors
 The hell that is a restaurant website
@@ -14875,7 +14862,7 @@ The oncoming era of cloud-connected health products and services
 The one that got away
 The only alternative is to work harder
 The open web lost a battle today.
-The opposite of Ã¢â‚¬Å“openÃ¢â‚¬Â is Ã¢â‚¬Å“theirsÃ¢â‚¬Â
+The opposite of “open“ is “theirs“
 The organizational impact due to poor software quality
 The origin of live and let live (and a very interesting system to analyse)
 The original IBM Thinkpad 
@@ -15001,11 +14988,11 @@ The worst case scenario happening when starting a company
 The worst case scenario happening while starting his company
 The worst things startups do
 The young and the jobless
-The Ã¢â‚¬Å“Free Public WifiÃ¢â‚¬Â conspiracy
-The Ã¢â‚¬Å“Girth-WealthÃ¢â‚¬Â Gradient: the poorer you are the fatter you're likely to be
-The Ã¢â‚¬Å“Gut WrenchingÃ¢â‚¬Â Setbacks Before Webmail.us Triumphed And Sold To Rackspace
-The Ã¢â‚¬Å“InterviewÃ¢â‚¬Â with Y Combinator That's Not
-The Ã¢â‚¬Å“no self-defeating objectÃ¢â‚¬Â argument
+The “Free Public Wifi“ conspiracy
+The “Girth-Wealth“ Gradient: the poorer you are the fatter you're likely to be
+The “Gut Wrenching“ Setbacks Before Webmail.us Triumphed And Sold To Rackspace
+The “Interview“ with Y Combinator That's Not
+The “no self-defeating object“ argument
 The-bus-pirate:The Bus Pirate universal serial interface
 TheFunded creator brings The Founder Institute to Seattle
 TheSixtyOne.com's Jobs Page 'Voting Rings' Problem
@@ -15074,12 +15061,12 @@ Think Again About Keeping Little Ones So Squeaky Clean
 Think Drupal was FLOSS and non-profit? Think again.
 Think big with a gig: Our experimental fiber network
 Think is hiring iPhone developers
-Think like a statistician Ã¢â‚¬â€œ without the math
+Think like a statistician » without the math
 Think like a statistician, without the math
 Think of solid-state drives as multi-core storage
 Think the Internet Will Replace Cable ? Read this first
 Thinking at Cloud Scale
-Thinking of applying for a job at Google. Any tips or feedback on my rÃƒÂ©sumÃƒÂ©?
+Thinking of applying for a job at Google. Any tips or feedback on my r»sumÃƒÂ©?
 Thirsty: Intellectual Curiosity and Success
 Thirteen Million Wikipedia Paragraphs at your Fingertips
 This Apple-HTC Patent Thing
@@ -15120,7 +15107,7 @@ Thoughts on Buzz
 Thoughts on Clojure Package Management
 Thoughts on Dynamo's "flawed architecture"
 Thoughts on James Cameron's Avatar
-Thoughts on James Cameron's Avatar and Ã¢â‚¬Å“Turn On, Tune In, Veg OutÃ¢â‚¬Â
+Thoughts on James Cameron's Avatar and “Turn On, Tune In, Veg Out“
 Thoughts on Setting Goals
 Thoughts on a Successful Launch
 Thoughts on an Open Source Company
@@ -15187,7 +15174,7 @@ Time-lapse map of unemployment rates by U.S. county during recession
 TimeGT Call for Help: Video Narration
 TimeGT Task Management GTD App Review @ ArcticStartup
 Times Higher Education 2009: Top 200 World Universities
-Times Square Strategy Session Ã¢â‚¬â€œ Web Startups and Customer Development
+Times Square Strategy Session » Web Startups and Customer Development
 Timescapes Timelapse: Mountain Light
 Timestamping your Github commits
 Timewarp: How your brain creates the fourth dimension 
@@ -15385,7 +15372,7 @@ Trying to Explain a Drop in Infant Mortality
 Trying to Find Coder's Heaven
 Tsunami Forecasting
 Tsunami anticipated to hit Hawaii 11:19 a.m., local time / 4:19 p.m. EST
-TubeRadio.fm Ã¢â‚¬â€œ a super-slick Ã¢â‚¬ËœSpotify for music videos'
+TubeRadio.fm » a super-slick 'Spotify for music videos'
 Tumblr Stole My Domain At The Behest of A Corporation
 Tumblr Stole My [Subdomain] At The Behest of A Corporation
 Tumblr just broke into the Top 100
@@ -15423,7 +15410,7 @@ Tweetvite: An Events Site Dedicated To Tweetups (From Anyvite YC S08)
 Twelve Tips to Master Programming Faster
 Twelve Virtues of Rationality
 Twelve months notice
-Twelve months notice cdixon.org Ã¢â‚¬â€œ chris dixon's blog
+Twelve months notice cdixon.org » chris dixon's blog
 Twenty years ago, ONE hit changed TWO lives forever
 Twenty-first Century Rabbit Ears
 Twilio (phone call web API) is crazy fun: MicroISV on a Shoestring
@@ -15465,7 +15452,7 @@ Twitter Stole My [username] At The Behest of a Corp (why this is a non-story)
 Twitter Style Load More Results with jQuery and Ajax. 
 Twitter To Rollout A New API For Location-Based Trends
 Twitter Turns On The Firehose For Realtime Search Startups
-Twitter Usabilty Ã¢â‚¬â€œ A non-technical new user's first experience
+Twitter Usabilty » A non-technical new user's first experience
 Twitter and Me Why It's The Only Social Media Tool (Vivek Wadhwa) Uses
 Twitter and how to go beyond 140-char limit
 Twitter app store oneforty gets funded
@@ -15525,11 +15512,11 @@ Typeface Designers Wrestle With the World of Pixels
 Typekit launches
 Typewar
 Typewar (By Eldarion)
-Typograph Ã¢â‚¬â€œ Scale & Rhythm
+Typograph » Scale & Rhythm
 Typographic town logos in hiragana/katakana
 U. of Arizona student builds Ubuntu-Atom powered spider-bot
 U.S freelancers pretend to be from other countries to get jobs
-U.S. Cracks Down on Ã¢â‚¬ËœContractors' as a Tax Dodge
+U.S. Cracks Down on 'Contractors' as a Tax Dodge
 U.S. Declassifies Part of Secret Cybersecurity Plan
 U.S. House passes health care plan
 U.S. Keeps Science Lead, But Other Countries Gain 
@@ -15575,7 +15562,7 @@ US Apple iPad to be released in April
 US Department of Energy becomes largest US venture capitalist
 US Department of Energy becomes largest VC
 US DoD snuffs open-source 'misconceptions'
-US Gov Requests Feedback on Open Access Ã¢â‚¬â€œ ACM Gets it Wrong (Again)
+US Gov Requests Feedback on Open Access » ACM Gets it Wrong (Again)
 US Government To Embrace OpenID, Courtesy Of Google, Yahoo, PayPal Et Al.
 US Government poisoned thousands of lawbreakers without a trial.
 US Government recommends weighing laptop before and after each visit to China
@@ -15584,7 +15571,7 @@ US Manufacturing Is Not Dead
 US Navy awards funds for Polywell Fusion reactor experiment 
 US Navy underwater laser development "changes everything"
 US Occupations Over Time
-US School Kids Are Doing Better Than Ever Ã¢â‚¬â€œ But You Never Hear It
+US School Kids Are Doing Better Than Ever » But You Never Hear It
 US Secret Service IT is 1980s mainframes, only up 60% of the time
 US Secret service hands ready position
 US appoints Howard Schmidt as cybersecurity chief
@@ -15650,7 +15637,7 @@ Understanding Idioms Requires Both Sides Of The Brain
 Understanding Obamacare
 Understanding War: Pakistan and Afghanistan
 Understanding Windows 7's 'GodMode'
-Understanding Your Personal Information's Value = The End of Ã¢â‚¬Å“Nothing To HideÃ¢â‚¬Â
+Understanding Your Personal Information's Value = The End of “Nothing To Hide“
 Understanding and dealing with overbearing Asian parents
 Understanding delete in Javascript
 Understanding delete in javascript
@@ -15711,7 +15698,7 @@ Upcoming startup workshop in San Francisco (organized by Joel Spolsky)
 Update on My Startup's Progress
 Update on Playstation network problems: DRM and firmware issues
 Update on annihilation of Computational Linguistics at King's College, London
-Updated Zune software drivers hints at Zune Phone Ã¢â‚¬â€œ istartedsomething
+Updated Zune software drivers hints at Zune Phone » istartedsomething
 Updating Carbonmade's Finances
 Upgrade your career
 Upload and Share Any File With Google Docs
@@ -15737,7 +15724,7 @@ Useful Online Generators for Designers
 Useful PDF Search Engine For Programmers and Designers (about 7.500.000 Manuals)
 Useful Ruby One-Liners
 Useful Usability Findings and Guidelines
-User Experience Matters: What Entrepreneurs Can Learn From Objectified Ã¢â‚¬â€œ GigaOM
+User Experience Matters: What Entrepreneurs Can Learn From Objectified » GigaOM
 User Experience Practices of YouTube, Nokia, Microsoft and Apple
 User Experience Videos
 User Goal Tracking in Rails with Vanity and Google Analytics
@@ -15799,7 +15786,7 @@ Using xAuth, An alternative OAuth from Twitter
 Using your mac without the mouse
 Ustream Pairs Live Video With Simultaneous Twitter, Facebook, and MySpace Chat
 Utility Ambiguity
-Utilizing multi-core in Ã¢â‚¬Å“GoÃ¢â‚¬Â programming language
+Utilizing multi-core in “Go“ programming language
 Uzbl: a browser that adheres to the Unix philosophy
 Uzbl: a browser that adheres to the unix philosophy
 VASIMR VX-200 reaches 200 kW power milestone (with videos)
@@ -15970,7 +15957,7 @@ Visualizing the Lorentz attractor in 3D with Python and VTK
 Visualizing the decline of empires
 Visuwords: Online Graphical Dictionary
 Vivek Wadhwa: Replicators, Innovators, and Bill Gates
-Vivisecting Apples iPhone App Review Process Ã¢â‚¬â€œ Insights from Inside
+Vivisecting Apples iPhone App Review Process » Insights from Inside
 VoIP's Best News, Ever
 Vodafone 360 a Bold move
 Vodafone chief: mobile groups should be able to bypass Google
@@ -15980,7 +15967,7 @@ Volumetric heat diffusion skinning
 Volunteer developers supporting US Department of Defense efforts in Haiti
 Volunteer programmers building relief apps for Haiti
 Vook, Maker of Multimedia E-Books, Raises $2.5 Million
-Voronoi Diagrams Ã¢â‚¬â€œ France, Reconstructed from Apparently Inadequate Data
+Voronoi Diagrams » France, Reconstructed from Apparently Inadequate Data
 Voronoi tessellation in linear time
 Vote for Barbie to be a computer engineer (Encourage diversity)
 Vote on Google's Project 10 to the 100
@@ -16031,7 +16018,7 @@ Want Passionate Kids? Leave 'em Alone
 Want That Early Chrome OS Build? You Got It. 
 Want a Job? Analytics is the Thing, Says IBM
 Want a Stronger Democracy? Invest in Education
-Want an Unpaid Internship So You Can Get Valuable Experience ? Ã¢â‚¬â€œ Screw You 
+Want an Unpaid Internship So You Can Get Valuable Experience ? » Screw You 
 Want more startup hubs? Show us your faces
 Want to Remember Everything You'll Ever Learn? Surrender to This Algorithm 
 Want to Think Logically? Trust Your Emotions 
@@ -16261,7 +16248,7 @@ What Rupert Murdoch Still Doesn't Get About the Internet
 What Sort of Exercise Can Make You Smarter?
 What Startups Are Really Like
 What Startups Can Learn from Lady Gaga
-What Visualization Tool/Software Should You Use? Ã¢â‚¬â€œ Getting Started
+What Visualization Tool/Software Should You Use? » Getting Started
 What Wall Street and nature have in common
 What We Can Learn About Pricing From Menu Engineers
 What Were Black People Talking About on Twitter Last Night?
@@ -16283,7 +16270,7 @@ What boyfriends and girlfriends search for on Google
 What can be computed?
 What caused the Samoa islands tsunami? 
 What constitutes a startup mistake? 
-What countries are Ã¢â‚¬Ëœpulling their weight' for Haiti?
+What countries are 'pulling their weight' for Haiti?
 What did 'Life of Brian' ever do for us?
 What did Tim Ferris do with his soul?
 What do dynamic linking and communism have in common?
@@ -16296,7 +16283,7 @@ What does HTML5 mean for us?
 What does Oracle plan for Netbeans IDE?
 What does a healthy startup ecosystem look like? It looks like this.
 What does a startup CEO actually do?
-What does it take to make a Ã¢â‚¬Ëœgood' developer resume?
+What does it take to make a 'good' developer resume?
 What does your taste in music say about your personality?
 What every developer should know about time
 What exactly makes Entrepreneurship so hard
@@ -16333,7 +16320,7 @@ What is the "minimal" set of primitives needed for a Lisp interpreter?
 What is the gambler's equivalent of Amdahl's Law?
 What is the point of building a business?
 What is the probability your vote will make a difference?  [pdf]
-What is Ã¢â‚¬Å“BayesianÃ¢â‚¬Â Statistical Inference?
+What is “Bayesian“ Statistical Inference?
 What it means when your geek girlfriend hangs up on you (repeatedly)
 What makes Apple's App Store tick? (results to a previous HN survey)
 What makes a great entrepreneur?
@@ -16387,7 +16374,7 @@ What you learn by teaching calculus
 What you really need to know about mathematics of A/B split testing
 What you'd build if you had 100 millions?
 What you'd built if you had 100 millions?
-What Ã¢â‚¬Å“on-demandÃ¢â‚¬Â media really means and why your cable company should be scared
+What “on-demand“ media really means and why your cable company should be scared
 What's A Non-Programmer To Do? (How I keep myself busy.)
 What's A Non-Programmer To Do? (addendum)
 What's A Startup? First Principles.
@@ -16406,7 +16393,7 @@ What's a Dress Worth? A $400M Fashion Startup founded by former Doubleclick CEO
 What's a conditerator?
 What's important when starting up
 What's in Store for 2010? A Few Predictions
-What's in a name Ã¢â‚¬â€œ Tips for naming your startup
+What's in a name » Tips for naming your startup
 What's luck got to do with it? The math of gambling
 What's missing from most entrepreneur pitches
 What's new in Perl 5.10.1 
@@ -16446,7 +16433,7 @@ When Sears was a startup
 When Should a Startup Start Charging?
 When Steve Wozniak put together a US Music Festival
 When The World Gives You Lemons, Sell Lemonade
-When Will White People Stop Making Movies Like Ã¢â‚¬Å“AvatarÃ¢â‚¬Â?
+When Will White People Stop Making Movies Like “Avatar“?
 When Your Competition Gets Bought by Apple: The Melodeo Story
 When Your Customer is Your Competitor: The Return of Roll Your Own
 When Your Venture Guy Says Goodbye
@@ -16590,7 +16577,7 @@ Why DJ Hero failed
 Why Designers Should Code
 Why Developers Get Fired
 Why Did Google Build a Phone? A Browser?
-Why Didn't Pownce Trounce Twitter? Ã¢â‚¬â€œ with Leah Culver
+Why Didn't Pownce Trounce Twitter? » with Leah Culver
 Why Dilbert Is Doomed
 Why Diversity Matters
 Why Do Cars Have Fuel Doors on Different Sides?
@@ -16643,7 +16630,7 @@ Why I Continue to Use Google Reader
 Why I Feel Like a Fraud
 Why I Hate Your Web App
 Why I Hope the Search for Extraterrestrial Life Finds Nothing
-Why I Quit Reddit Ã¢â‚¬â€œ Actually, Reddit Quit Me
+Why I Quit Reddit » Actually, Reddit Quit Me
 Why I Stopped Throwing Out Junk Mail
 Why I Will Never Buy Another Apple Product
 Why I Will Never Buy another Apple Product
@@ -16814,7 +16801,7 @@ Why bonuses and performance pay are a bad idea
 Why can't chimps speak? Answer: A single gene.
 Why can't you pickle generators in Python? A pattern for saving training state
 Why capitalism fails
-Why climatologists used the tree-ring data Ã¢â‚¬Ëœtrick'
+Why climatologists used the tree-ring data 'trick'
 Why cloud exchanges won't work
 Why computers suck at math
 Why content sites are getting ripped off
@@ -16906,7 +16893,7 @@ Why the First Round Capital Entrepreneur's Exchange fund is good
 Why the GPL does not apply to premium WordPress themes
 Why the Granny Coder decided to make her first iPhone game aged 77
 Why the Great Indian Media Companies will Fail on the Internet
-Why the HTML5 Ã¢â‚¬ËœVideo' Element Is Effectively Unusable
+Why the HTML5 'Video' Element Is Effectively Unusable
 Why the Maya used a 260-day calendar 
 Why the NYC Startup Scene is Hot (Hint: Not Fred Wilson) 
 Why the Nexus One can't compete with the app experience of the iPhone
@@ -16934,7 +16921,7 @@ Why we didn't convert to .Net. And perhaps we never will
 Why we don't need phone numbers
 Why we have skeptics
 Why we kiss: To spread germs
-Why we moved away from Ã¢â‚¬Å“the cloudÃ¢â‚¬Â to a Ã¢â‚¬Å“realÃ¢â‚¬Â server
+Why we moved away from “the cloud“ to a “real“ server
 Why we skip Photoshop when mocking up websites
 Why would Google not pay as little tax as possible?
 Why would a 3 days old site gets indexed and then de indexed by google
@@ -16955,8 +16942,8 @@ Why you should use English versions of your OS and other software
 Why you should use four different digits for keypad locks
 Why your Web content will look darker on Snow Leopard
 Why your boss is incompetent 
-Why Ã¢â‚¬Å“Work smarter and not harderÃ¢â‚¬Â is crap advice for entrepreneurs 
-Why's Ã¢â‚¬Å“Try RubyÃ¢â‚¬Â Back Online
+Why “Work smarter and not harder“ is crap advice for entrepreneurs 
+Why's “Try Ruby“ Back Online
 Wi-Fi Turns Arizona Bus Ride Into a Rolling Study Hall
 Wi.nr - url shortener that gives away free prizes
 WiFi for passive-aggressives
@@ -17003,7 +16990,7 @@ Will books survive? A scorecard.
 Will python 3 ever gain critical adoption?
 Will single founders please stand up?
 Will single founders please stand up?  (Musical edition.)
-Will the 3-D Wonders of Ã¢â‚¬ËœAvatar' Change the Industry?
+Will the 3-D Wonders of 'Avatar' Change the Industry?
 Will the Manhattan Project Always Exist?
 Will the Six Great Stages of Evolution Be Followed by a Seventh?
 Will the US handing over to ICANN be only positive?
@@ -17028,7 +17015,7 @@ Windows 7 - $30 For Students
 Windows 7 Can't View XP Share?Ã¢â‚¬Â¦Turn off Simple File Sharing on XP
 Windows 7 SMB Crash Video
 Windows 7 Upgrade Mess Is Depressing
-Windows 7 Vs Mac Ã¢â‚¬â€œ Apple Has Plans To Spoil Windows 7 Party?
+Windows 7 Vs Mac » Apple Has Plans To Spoil Windows 7 Party?
 Windows 7 is reduced to rainbows and unicorns
 Windows 7 is the best operating system on the market
 Windows 7 launched on a MacBook Pro on NBC's The Today Show
@@ -17093,7 +17080,7 @@ WordPress Just Made Millions of Blogs Real-Time With RSSCloud
 WordPress Visual Cheat Sheet
 WordPress has become the first Greenscroll  friendly blogging system. 
 Wordle In Trademark Trouble, Seeks Legal Advice
-Wordpress Exploited Ã¢â‚¬â€œ 2.8.4 Release
+Wordpress Exploited » 2.8.4 Release
 Wordpress's blog support PubSubHubbub
 Wordpress, Varnish and Edge Side Includes
 Wordpress.com implements Twitter API (for posting and reading)
@@ -17220,7 +17207,7 @@ Xkcd = garbage
 Xkcd blog: Physics for Entertainment book
 Xkcd book tour announced - meet Randall Sept 22nd @ Y Combinator
 Xkcd book tour announced - meet Randall Sept 22nd at Y Combinator
-Xkcd Ã¢â‚¬Å“Self-DescriptionÃ¢â‚¬Â solved with python+pygame
+Xkcd “Self-Description“ solved with python+pygame
 Xmonad + bluetile = making tiling windowing accessible to new users
 Xmonad 0.9 released The light, reliable, extensible tiling window manager
 Xobni (YC S06) launches 2nd business model in 3 months - Xobni Enterprise
@@ -17233,7 +17220,7 @@ Y Combinator Left Boston--and A Wave of Startup Camps & Programs Filled the Void
 Y Combinator Pumpkin. Happy Halloween
 Y Combinator Seattle Meetup, Feb 25  
 Y Combinator Startup Library
-Y Combinator To Startups: Ã¢â‚¬Å“We think the iPad is meant to be a Windows killerÃ¢â‚¬Â
+Y Combinator To Startups: “We think the iPad is meant to be a Windows killer“
 Y Combinator Will Now Accept Late Applications
 Y Combinator vs. Graduate School
 Y Combinator's Browsarity Allows You To Donate Affiliate Fees To Charity
@@ -17280,7 +17267,7 @@ Yahoo! and the need for speed
 Yahoo's $3.65 Billion Mistake: Yahoo Closes GeoCities
 Yahoo's New Recruitment Effort: Google Ads On Ex-Employee Name Queries 
 Yahoo, Apple, Adobe, others named in Eolas patent lawsuit blitz
-Yahoo, Verizon: Spy Capabilities Would Ã¢â‚¬ËœShock', Ã¢â‚¬ËœConfuse' Consumers
+Yahoo, Verizon: Spy Capabilities Would 'Shock', 'Confuse' Consumers
 Yahoos Learn To Wear Ties To Big Meetings
 Yale's Econ 159: Game Theory Made Fun
 Yawn, Google Introduces iPhone Clone
@@ -17290,7 +17277,7 @@ Yehuda Katz Talks Rails 3.0
 Yelp Extortion Allegations Stack Up
 Yelp Extortion Allegations Stack Up (March 2009)
 Yelp Helps Kill the IPO Market
-Yelp Hit With Class Action Lawsuit For Running An Ã¢â‚¬Å“Extortion SchemeÃ¢â‚¬Â
+Yelp Hit With Class Action Lawsuit For Running An “Extortion Scheme“
 Yelp Is Growing 80 Percent A Year
 Yelp Walks Away From Google Deal, And Half A Billion Dollars
 Yelp gets sued for extortion... and no one here's surprised.
@@ -17314,7 +17301,7 @@ You Can't Do What You Want By Doing Something Else
 You Can't Launch the Next Generation of Startups Without Women
 You Commit Three Felonies a Day
 You Could Have Invented Monads (And Maybe You Already Have)
-You Don't Get to Define Ã¢â‚¬ËœQuality' 
+You Don't Get to Define 'Quality' 
 You Don't Know Jack About Software Maintenance
 You Have To Buy It Twice Before It's Cheap
 You NEED to use error-correcting memory 
@@ -17357,7 +17344,7 @@ You've Gotta Fight for Your Right to... OLPC
 You've been SHODAN'd
 You've been Yelped
 You've been kicked in the nuts: signing up in iPhone apps
-You, Too, Can Soon Be Like Tom Cruise in Ã¢â‚¬ËœMinority Report'
+You, Too, Can Soon Be Like Tom Cruise in 'Minority Report'
 You-Centric: The Future of Browsing
 You-can-program-too encouragement in early home-computer ads
 YouTube - Future Designer laptop - ROLLTOP //Diploma Thesis//
@@ -17450,9 +17437,9 @@ ZumoDrive (YC S07) Is a Silver Lining In 'Cloud' Storage
 ZumoDrive Service Is a Silver Lining In 'Cloud' Storage [YC 07]
 Zune HD features Apple should steal 
 Zynga Buys Social Gaming Startup Serious Business
-Zynga CEO Mark Pincus: Ã¢â‚¬Å“I Did Every Horrible Thing To Get RevenuesÃ¢â‚¬Â
+Zynga CEO Mark Pincus: “I Did Every Horrible Thing To Get Revenues“
 Zynga CEO, Mark Pincus, admits he did ANYTHING for revenue.
-Zynga CEO: Ã¢â‚¬Å“I Did Every Horrible Thing In The Book Just To Get RevenuesÃ¢â‚¬Â 
+Zynga CEO: “I Did Every Horrible Thing In The Book Just To Get Revenues“ 
 Zynga Closes $180MM VC Round
 Zynga Investor Calls Scamville Debate Irrelevant And Unfair
 Zynga Is On A Tear
@@ -17645,26 +17632,26 @@ zoom=4&amp
 {less} CSS for .Net
 Ãâ‚¬ in Clojure
 Ãâ‚¬: A Pattern Language
-Ã¢â‚¬Å“Google removes FriendFeed from Feedburner statsÃ¢â‚¬Â
-Ã¢â‚¬Å“I Sleep Two Hours Per DayÃ¢â‚¬Â
-Ã¢â‚¬Å“I made the first animated Ã¢â‚¬Ëœunder construction' iconÃ¢â‚¬Â
-Ã¢â‚¬Å“Is PayPal good for your microISV business?Ã¢â‚¬Â A short PayPal horror story
-Ã¢â‚¬Å“It turns outÃ¢â‚¬Â
-Ã¢â‚¬Å“Just in caseÃ¢â‚¬Â versus Ã¢â‚¬Å“just in timeÃ¢â‚¬Â 
-Ã¢â‚¬Å“Lessons LearnedÃ¢â‚¬Â Ã¢â‚¬â€œ A New Type of Venture Capital Pitch
-Ã¢â‚¬Å“Lessons LearnedÃ¢â‚¬Â Ã¢â‚¬â€œ A New Type of Venture Capital Pitch Ã‚Â« Steve Blank:
-Ã¢â‚¬Å“PiracyÃ¢â‚¬Â and Ã¢â‚¬Å“anti-piracyÃ¢â‚¬Â: A brief history
-Ã¢â‚¬Å“PublicÃ¢â‚¬Â should not be the default
-Ã¢â‚¬Å“So...what do you do?"
-Ã¢â‚¬Å“U.S. now beating European unemployment ratesÃ¢â‚¬Â
-Ã¢â‚¬Å“Used To Be Free" is not a good business model
-Ã¢â‚¬ËœDon't Be Evil,' Meet Ã¢â‚¬ËœSpy on Everyone': How the NSA Deal Could Kill Google
-Ã¢â‚¬ËœGoogle' Hackers Had Ability to Alter Source Code
-Ã¢â‚¬ËœKnown Software Bug' Disrupts Brain-Tumor Zapping
-Ã¢â‚¬ËœObscene' U.S. Manga Collector Jailed 6 Months 
-Ã¢â‚¬ËœPiracy Isn't Killing Music' Says Ed O'Brien Radiohead's Guitarist
-Ã¢â‚¬ËœSocial' Games Predictions for 2010
-Ã¢â‚¬ËœThe Amazon Effect': Now Murdoch's Gunning for the $10 E-Book
-Ã¢â‚¬ËœThree Cups of Tea' advice for Obama
+“Google removes FriendFeed from Feedburner stats“
+“I Sleep Two Hours Per Day“
+“I made the first animated 'under construction' icon“
+“Is PayPal good for your microISV business?“ A short PayPal horror story
+“It turns out“
+“Just in case“ versus “just in time“ 
+“Lessons Learned“ » A New Type of Venture Capital Pitch
+“Lessons Learned“ » A New Type of Venture Capital Pitch Ã‚Â« Steve Blank:
+“Piracy“ and “anti-piracy“: A brief history
+“Public“ should not be the default
+“So...what do you do?"
+“U.S. now beating European unemployment rates“
+“Used To Be Free" is not a good business model
+'Don't Be Evil,' Meet 'Spy on Everyone': How the NSA Deal Could Kill Google
+'Google' Hackers Had Ability to Alter Source Code
+'Known Software Bug' Disrupts Brain-Tumor Zapping
+'Obscene' U.S. Manga Collector Jailed 6 Months 
+'Piracy Isn't Killing Music' Says Ed O'Brien Radiohead's Guitarist
+'Social' Games Predictions for 2010
+'The Amazon Effect': Now Murdoch's Gunning for the $10 E-Book
+'Three Cups of Tea' advice for Obama
 Ã¥Â³Â¶Ã¦Â Â¹ September Ã¢â‚¬â€ RubyWorld
 ÃŽÂ»-calculus in JavaScript

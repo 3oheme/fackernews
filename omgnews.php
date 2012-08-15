@@ -23,5 +23,7 @@ function _urls() { return gimmerandomfromfile('resources/urls.txt'); }
 function _users() { return gimmerandomfromfile('resources/users.txt'); }
 function _adjetives() { return gimmerandomfromfile('resources/adjetives.txt'); }
 function _countries() { return gimmerandomfromfile('resources/countries.txt'); }
+function _years() { return gimmerandomfromfile('resources/years.txt'); }
+function _mobiles() { return gimmerandomfromfile('resources/mobiles.txt'); }
 
 ?>
