@@ -4,12 +4,25 @@ include 'omgnews.php';
 
 print_news_better_style(30);
 
+function print_news_better_style($number) {
+  $all_news = load_all_news();
+  $i = 0;
+  while ($i < $number) {
+    $new = gimme_one_new_from($all_news);
+    if (parse_and_replace_tokens($new)) {
+      $i = $i + 1;
+      theme_new($new, _urls(), $i);
+    }
+  }
+}
+
+
 function load_all_news() {
   $news = explode("\n", file_get_contents('allnews.txt'));
   return $news;
 }
 
-function gimme_one_new($all_news) {
+function gimme_one_new_from($all_news) {
   return $all_news[rand(0, count($all_news)-1)];
 } 
 
@@ -53,18 +66,6 @@ function parse_and_replace_tokens(&$new) {
       $new = change_tokens_for_funny_stuff($new, $resources);
     }
     return TRUE;
-  }
-}
-
-function print_news_better_style($number) {
-  $all_news = load_all_news();
-  $i = 0;
-  while ($i < $number) {
-    $new = gimme_one_new($all_news);
-    if (parse_and_replace_tokens($new)) {
-      $i = $i + 1;
-      theme_new($new, _urls(), $i);
-    }
   }
 }
 

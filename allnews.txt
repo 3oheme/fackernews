@@ -1,4 +1,3 @@
-
       An empirical comparison of C, C++, Java, Perl, Python, Rexx, and Tcl
     Droid Doesn't: It's Not Ready For Prime Time
     Square's On-the-Go iPhone Credit Card Scanner Will Cost $1
@@ -582,8 +581,8 @@ A Brief Guide to DNA Sequencing
 A Brief History of Lisp Machines
 A Brief History of Solar Sails
 A Brief Rundown of Changes and Additions in Python 3.1
-A C++ Challenge - TheÃ‚Â Conclusion
-A C++Ã‚Â Challenge
+A C++ Challenge - The Conclusion
+A C++ Challenge
 A CEO's Dilemma: Should I Take My Burning Man Pics off Facebook? 
 A CS Research Topic Generator or How To pick A Worthy Topic In 10 Seconds
 A Call to Action - Help Protect Startup Financing

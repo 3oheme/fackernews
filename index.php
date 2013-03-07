@@ -39,7 +39,7 @@
 							<table border="0" cellpadding="0" cellspacing="0">
 								<tbody>
 
-                  <?php include 'addmessages.php'; ?>
+                  <?php include 'main.php'; ?>
 
 									
 									<tr style="height:5px">
