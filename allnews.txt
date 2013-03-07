@@ -6,7 +6,7 @@
   Aardvark Mulls Over A $30+ Million Offer From Google 
   Algorithmic recruitment with GitHub
   Chapter 5 of the Ruby on Rails Tutorial book is out
-  Cheap Beer If You Check-InÃ¢â‚¬Â¦ Or Just Tweet. 
+  Cheap Beer If You Check-In‚ Or Just Tweet. 
   Dropbox Meets The iPhone
   EduFire Raises $1.3 Million For Video Education Platform 
   Facebook Just Made It Super Easy To Put Connect On Your Site 
@@ -25,7 +25,7 @@
   How Serious Is Justin.tv About Fighting Live Broadcasting Piracy? 
   How to Create a Global Phenomenon for Less Than $10,000
   IMDb Turns 19. Yes, 19. Older Than The Web Browser. 
-  Introducing Cloudera Desktop Ã‚Â» Cloudera Hadoop & Big Data Blog
+  Introducing Cloudera Desktop » Cloudera Hadoop & Big Data Blog
   Listia (YC S09) Gets An Angel Round To Help People Give/Get Free Stuff 
   Malaysia's MOL Global To Buy Friendster  
   Maybe Hulu is right to block Boxee? 
@@ -320,7 +320,7 @@ $89 pocket oscilloscope
 1984 ad remade..new Dictator: Steve Jobs
 1999 Microsoft Store vs. 2009 Microsoft Store
 1:35,200 Scale Train is World's Smallest
-2 Serious Issues Facebook Needs to AddressÃ¢â‚¬Â¦Soon
+2 Serious Issues Facebook Needs to Address ¦ Soon
 2 Ways to Sync Google Buzz with Twitter
 2 corporations control the beer choices of 300 million Americans.
 2,000 students at Washington State University report flu symptoms
@@ -360,7 +360,7 @@ $89 pocket oscilloscope
 2040: Diary of an interesting year
 21 Prototyping, Mockup, and Wireframing Tools for iPhone App Development
 21 Things That Became Obsolete This Decade
-21-year-old computer geek makes Ã‚Â£1m with online game (Torn)
+21-year-old computer geek makes £1m with online game (Torn)
 21st-Century Shooters Are No Country for Old Men
 22 Facebook Funded Startups to Watch
 22 musical pieces written with 140 characters of code
@@ -392,7 +392,7 @@ $89 pocket oscilloscope
 3.5" Is Enough : Assembly 2009 Oldskool Demo Winner
 30 + Cool Css Text Drop Shadow Techniques
 30 Asian students injured in attacks at South Philly high school
-30 Days On JetBlue: A Flying MarathonÃ¢â‚¬Â¦Helping Kids In Zambia
+30 Days On JetBlue: A Flying Marathon‚ ¦ Helping Kids In Zambia
 30 Great Web Geeks
 30 Most Influential People In Programming
 30 Resources to Find the Data You Need
@@ -816,7 +816,7 @@ A new Turing test: Fighting it out
 A new approach to China
 A new beta of Google Chrome for Mac - with extensions and more
 A new build tool for Clojure abstracting away Maven/Ant
-A new communications technology disrupted America's newspaper industryÃ¢â‚¬â€in 1845
+A new communications technology disrupted America's newspaper industry in 1845
 A new dimension for genome studies
 A new global visual language for the BBC's digital services
 A new house number ...
@@ -886,7 +886,7 @@ A trillion congruent numbers calculated
 A true proportional font terminal for Linux and Unix
 A very clever idea to enforce copyright with minimal lawsuits.
 A very old gcc "bug"
-A visual history of Cray (8794Ãƒâ€”682)
+A visual history of Cray (8794”682)
 A walkthrough of Howard Lindzon's milestone investments
 A way to determine dinosaurs' colors
 A way to get notified of replies to your comments on hacker news
@@ -1121,11 +1121,11 @@ Alcohol Activates Cellular Changes That Make Tumor Cells Spread
 Alcor Cryopreservation Case Summaries (Cryonics)
 Alex Gaynor - Dive into Python 3 Review
 Alex Gaynor - Thoughts on HipHop PHP
-Alex Payne Ã¢â‚¬â€ Good Things
-Alex Payne Ã¢â‚¬â€ Good Things: Ubuntu and Android
-Alex Payne Ã¢â‚¬â€ In Which I'm Not Alone
-Alex Payne Ã¢â‚¬â€ My Get-Back-To-Work Hack
-Alex Payne Ã¢â‚¬â€ On the iPad
+Alex Payne - Good Things
+Alex Payne - Good Things: Ubuntu and Android
+Alex Payne - In Which I'm Not Alone
+Alex Payne - My Get-Back-To-Work Hack
+Alex Payne - On the iPad
 Alex Payne, a Twitter engineer, is shutting down his personal blog
 Alex Tabarrok: Insiders, Outsiders and Unemployment  
 Alexa ranks Facebook #2 website worldwide (Google #1, Yahoo #3)
@@ -1464,7 +1464,7 @@ Annoying Things About The Internet
 Annual Escalating Patent Fee Proposal
 Anonymity and the Internet
 Anonymity system for Google called GoogleSharing
-Anonymized data really isn'tÃ¢â‚¬â€and here's why not
+Anonymized data really isn't‚ and here's why not
 Anonymous hacks Australian Government in response to Internet censorship
 Anonymous sources: an experiment
 Another Linux file notification subsystem
@@ -1541,7 +1541,7 @@ Apple II games in your browser
 Apple Introduces Revolutionary New Laptop With No Keyboard
 Apple Kills Support for Atom processor in Snow Leopard 
 Apple Macs no safer than PCs from computer phishing attacks 
-Apple Now A $50+ Billion Company Ã¢â‚¬â€ Major New Product This Week
+Apple Now A $50+ Billion Company‚ Major New Product This Week
 Apple Now Blocking 'Overtly Sexual' Apps from App Store
 Apple Open Source
 Apple Open-Sources Grand Central Dispatch (Snow Leopard Multithreading)
@@ -1611,7 +1611,7 @@ Apple plans Mighty Mouse makeover
 Apple plans to embed ads in operating system
 Apple prohibits App Store devs from using location-based ads
 Apple quits the U.S. Chamber of Commerce over opposition to EPA
-Apple releases new 27Ã¢â‚¬Â³ LED Cinema Display » comes with a free Mac
+Apple releases new 27‚ LED Cinema Display » comes with a free Mac
 Apple responsible for 99.4% of mobile app sales in 2009
 Apple says booting OS X makes an unauthorized copy
 Apple sends iPhones into 'Coma Mode'
@@ -1813,7 +1813,7 @@ Ask HN: 3 Ideas (with slides) for YC W10 - What do you think?
 Ask HN: 3 Ideas for YC W10 - What do you think?
 Ask HN: A Business Guy Getting Hired at a Startup, Help Please
 Ask HN: A New Decade. Any Predictions?
-Ask HN: A competitor stole my iPhone app content Ã¢â‚¬â€ what should I do?
+Ask HN: A competitor stole my iPhone app content‚ what should I do?
 Ask HN: A free "cell phone" for use within a few miles of home?
 Ask HN: A martial art for a programmer
 Ask HN: A subscription/recurring billing service that just works. Any ideas?
@@ -2766,7 +2766,7 @@ Background task processing and deferred execution in Django
 Backing Out of a Term Sheet
 Bad Code Offsets: An Update
 Bad Working Conditions, part 1
-Bad hackers copy, great hackers steal Ã¢â‚¬â€Ã‚Â Avi Bryant
+Bad hackers copy, great hackers steal‚ Avi Bryant
 Badda Bing Microsoft woos newspapers by funding their stick to beat Google
 Badda Bing: Microsoft woos newspapers by funding their stick to beat Google
 Badly needed Buzz improvement #1: individually hide followees
@@ -2833,7 +2833,7 @@ Beautiful Failure
 Beautiful HTML5 "Sublime" Video Player
 Beautiful Minds: Relations between genius, creativeness and mental illness
 Beautiful Reading via Flex 4
-Beautiful codeÃ¢â‚¬â€°Ã¢â‚¬â€Ã¢â‚¬â€°The Manifesto
+Beautiful code‚ The Manifesto
 Beautiful fixed-width fonts for OSX
 Beautiful mini language for outputing HTML in Python
 Beautiful plots of roots of polynomials
@@ -2884,7 +2884,7 @@ Berlin Hacker News Meetup? (Germany)
 Berlingske Media steals sports fantasy game from small partner [in danish] 
 Bertrand Russell, "On Sales Resistance"
 Bespin Embedded 0.6.1: Syntax Highlighting Rebooted
-Bespin Ã‚Â» Code in the Cloud
+Bespin » Code in the Cloud
 Bessemer Snags a “Designer In Residence“ From Mint.com
 Bessemer Venture's anti-portfolio, deals they passed on but should have taken
 Best Bet CSS Practices
@@ -3286,7 +3286,7 @@ CRU Admits to Dumping Raw Climate Data
 CRU's "VERY ARTIFICAL correction for decline" is dead code (re: climategate)
 CRU's "very artificial correction for decline" is dead code
 CS researchers find way to derive laws of nature from stacks of data
-CSCW: Clay Shirky Ã¢â‚¬â€ Doing work, or Doing Work?
+CSCW: Clay Shirky‚ Doing work, or Doing Work?
 CSS Differences in Internet Explorer 6, 7 and 8
 CSS Killswitch
 CSS Minification on the Fly
@@ -3308,7 +3308,7 @@ Cache Missing for Fun & Profit
 Caches are nice, but they confuse memory leak detection tools
 Caching Apple's Signature Server
 CakePHP on GitHub
-Calacanis Waits To Be Sued Ã¢â‚¬â€ But Angels Say They Won't Oblige
+Calacanis Waits To Be Sued‚ But Angels Say They Won't Oblige
 Calculating 316 Million Movie Correlations in 2 Minutes (Down From 2.5 Hours)
 Calculating Mean Time To Data Loss (and probability of silent data corruption) 
 Calculating Speed of Antelope in an image
@@ -3356,7 +3356,7 @@ Can we have some first sources, please?
 Can we please lay off the social-networking-as-grief-counseling thing?
 Can we stop the language bashing please ?
 Can you get cp to give a progress bar like wget?
-Can you get rotating an array to run faster than O(nÃ‚Â²)?
+Can you get rotating an array to run faster than O(n‚²)?
 Can you identify novice programmers by how they say 'object orientated'?
 Can you private message peeps on Hacker News?
 Can you see time?
@@ -3426,7 +3426,7 @@ CellScope: Your Cell Phone Just Got a Microscope
 Cello made from Lego
 Cellular Automata using Pixel Bender
 Censorship flamewar
-Central England temperature dataset: 0.26Ã‚Â°C increase per century since 1659 
+Central England temperature dataset: 0.26°C increase per century since 1659 
 Ceph: open source petabyte scale distributed storage
 Certificate Authority provides free certificates
 ChaCha Makes Its Crazy Business ModelÃ¢â‚¬Â¦Profitable
@@ -3437,8 +3437,8 @@ Challenger disaster amateur video discovered after 24 years
 Challenging the MLS Monopoly
 Chandrayaan sends images of Apollo 15 landing
 Changing a headline improved conversion by 90%
-Changing the game with ÃŽÂ¼TP
-Changing the game with ÃŽÂ¼TP Ã‚Â« BitTorrent Blog
+Changing the game with ¼TP
+Changing the game with ¼TP‚« BitTorrent Blog
 Chaos Theory vs Clojure
 Chapter 6 of the Ruby on Rails Tutorial book
 Chapter 7 ("Sign up") of the Ruby on Rails Tutorial book is out
@@ -3586,7 +3586,7 @@ City requires Facebook passwords from job applicants
 City-go-round: Open transit data for 89 cities
 CitySourced: Lessons learned from our TC50 experience
 Cl-gtk2 is ASDF-installable
-Cl-gtk2 is ASDF-installable Ã‚Â« cl-gtk2 » a Common Lisp GUI library
+Cl-gtk2 is ASDF-installable‚ « cl-gtk2 » a Common Lisp GUI library
 Claims of Himalayan glacier meltdown based entirely on a single short phone call
 Clarifying How Kiva Works
 Clarity - an open source web interface to grep and tail 
@@ -3595,7 +3595,7 @@ Classic computer science problems solved in JavaScript
 Classic examples of innovation
 Claude Shannon
 Claude Shannon -why prefer the bit to the dit, nit and Hartley?
-Clay Shirky Ã¢â‚¬â€ Doing work, or Doing Work?
+Clay Shirky‚ Doing work, or Doing Work?
 Clean your data: What programmers can do to remove 'dirt' from databases
 Cleaning up erlang_markdown
 Clever folds in a globe give new perspectives on Earth
@@ -3651,7 +3651,7 @@ Clojure won't win the battle but may win the war
 Clojure wont win the battle but may win the war
 Clojure's :pre and :post
 Clojure's first year
-Clojure, Haskell & Ruby vs EulerÃ‚Â 25
+Clojure, Haskell & Ruby vs Euler‚ 25
 Clojure, Parallelism, and Genetic Algorithms
 Clojure.core/str makes sense now
 Clojure: Controlling run-away trains, onions, and exercise bikes
@@ -3856,15 +3856,15 @@ ConceptRobots » Seriously Awesome Images Of Robots
 Conception, birth and developement of a Free math software (Sage) 
 Conceptual metaphor
 Concise Python Code
-Concur.next Ã¢â‚¬â€ Crosstalk
-Concur.next Ã¢â‚¬â€ Java
-Concur.next Ã¢â‚¬â€ Messaging
-Concur.next Ã¢â‚¬â€ More Clojure I/O
-Concur.next Ã¢â‚¬â€ My Take
-Concur.next Ã¢â‚¬â€ No Free Lunch
-Concur.next Ã¢â‚¬â€ Parallel I/O (clojure)
-Concur.next Ã¢â‚¬â€ References: clojure: parallel log analysis
-Concur.next Ã¢â‚¬â€ The Laundry List
+Concur.next‚ Crosstalk
+Concur.next‚ Java
+Concur.next‚ Messaging
+Concur.next‚ More Clojure I/O
+Concur.next‚ My Take
+Concur.next‚ No Free Lunch
+Concur.next‚ Parallel I/O (clojure)
+Concur.next‚ References: clojure: parallel log analysis
+Concur.next‚ The Laundry List
 Concurrency Patterns: Java, Scala, and Clojure
 Concurrency bugs are all the rage
 Concurrent Haskell Processes (CHP) vs Concurrent ML: Forking and Picky Receivers
