@@ -5,11 +5,11 @@ Just a silly Fake hacker news generator.
 
 Q: How?
 
-Quite simple and straightforward:
+Quite simple and straightforward recipe:
 
-1.- Took a list of news from some old database.
-2.- Created manually or from internet list of different items.
-3.- PHP stupid script to load a random new and try to change any occurrence
+1.- Take a list of news from some old database.
+2.- In another bowl, create lists of different items — Companies, tools, browsers...
+3.- Program a stupid script to load a random new and try to change any occurrence
     of a string for any other item of that list.
 4.- Thats all. Sometimes is funny, others just silly.
 
@@ -24,3 +24,9 @@ different subjects and creating new and - sometimes interesting - news.
 
 Style and kudos and all the copyright to the Y Combinator team
 http://news.ycombinator.com/
+
+homepage:
+ - http://www.3oheme.com
+
+Follow me on twitter:
+ - http://www.twitter.com/boheme

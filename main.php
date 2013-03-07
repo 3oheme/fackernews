@@ -1,6 +1,6 @@
 <?php
 
-include 'omgnews.php';
+include 'resource_store.php';
 
 print_news_better_style(30);
 
@@ -15,7 +15,6 @@ function print_news_better_style($number) {
     }
   }
 }
-
 
 function load_all_news() {
   $news = explode("\n", file_get_contents('allnews.txt'));
